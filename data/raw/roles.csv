@@ -1,0 +1,13 @@
+role_id,title,dept,city,recruiter,hiring_manager,base_ctc,target_close,secured,open_seats,headcount
+R01,Senior Backend Engineer,Engineering,Bengaluru,Aarti Nair,Meera Kapoor,32,2025-06-19,8,4,12
+R02,Frontend Engineer,Engineering,Pune,Rohan Mehta,Aditya Joshi,22,2025-07-29,8,2,10
+R03,Data Scientist,Data,Hyderabad,Sneha Iyer,Pooja Deshmukh,30,2025-07-22,6,4,10
+R04,Data Engineer,Data,Bengaluru,Vikram Rao,Karan Bansal,26,2025-07-09,3,4,7
+R05,Product Manager,Product,Gurugram,Aarti Nair,Ishita Rao,40,2025-07-09,5,1,6
+R06,UX Designer,Design,Mumbai,Rohan Mehta,Nikhil Verma,24,2025-08-03,2,4,6
+R07,DevOps Engineer,Engineering,Chennai,Sneha Iyer,Tanvi Shah,24,2025-06-19,4,3,7
+R08,Sales Manager,Sales,Mumbai,Vikram Rao,Gaurav Mishra,28,2025-07-25,3,4,7
+R09,Account Executive,Sales,Noida,Aarti Nair,Lakshmi Pillai,18,2025-06-25,4,3,7
+R10,Marketing Lead,Marketing,Gurugram,Rohan Mehta,Harsh Vora,38,2025-06-19,3,3,6
+R11,HR Business Partner,People,Pune,Sneha Iyer,Simran Gill,22,2025-07-15,4,3,7
+R12,Finance Analyst,Finance,Hyderabad,Vikram Rao,Yash Agarwal,14,2025-08-10,2,3,5

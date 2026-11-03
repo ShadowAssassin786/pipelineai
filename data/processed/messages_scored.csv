@@ -1,0 +1,1321 @@
+candidate_id,date,text,compound
+C0001,2025-03-29,Thank you so much for the quick turnaround. This sounds like a fantastic opportunity.,0.886
+C0001,2025-03-29,Thanks for the update! I'm really excited about the Senior Backend Engineer role and happy to move ahead.,0.862
+C0001,2025-03-29,Could you confirm the location and the reporting manager?,0.0
+C0001,2025-03-30,"Happy with the discussion so far, the team seems wonderful. Please share the next steps.",0.8979
+C0003,2025-05-14,"Great, that works for me. Looking forward to the next round!",0.6588
+C0003,2025-05-15,"Bahut accha laga team se milke, excited hoon aage badhne ke liye!",0.4003
+C0003,2025-05-15,"Not happy with the hike offered, I was expecting much more. This is upsetting.",-0.7478
+C0003,2025-05-15,"Mujhe thoda time chahiye, main weekend tak batata hoon.",0.0
+C0003,2025-05-16,The process has been too slow and I'm losing interest.,0.1027
+C0007,2025-03-31,"Love the details, thanks for being so transparent. Really appreciate it!",0.8921
+C0007,2025-03-31,"Awesome, thank you! I'm confident this is a good fit and I'm very interested.",0.9551
+C0007,2025-03-31,Thanks for the update! I'm really excited about the Senior Backend Engineer role and happy to move ahead.,0.862
+C0007,2025-03-31,Thanks for the update! I'm really excited about the Senior Backend Engineer role and happy to move ahead.,0.862
+C0007,2025-03-31,"Sounds great, I'm keen to join and will share the documents today.",0.875
+C0007,2025-03-31,"Not happy with the hike offered, I was expecting much more. This is upsetting.",-0.7478
+C0010,2025-05-21,"Bahut accha laga team se milke, excited hoon aage badhne ke liye!",0.4003
+C0010,2025-05-23,"Great, that works for me. Looking forward to the next round!",0.6588
+C0010,2025-05-30,"Sounds great, I'm keen to join and will share the documents today.",0.875
+C0012,2025-05-06,Please share the job description and the compensation structure.,0.5423
+C0012,2025-05-07,Noted. I'll get back to you by end of week.,0.0
+C0012,2025-05-11,"Mujhe thoda time chahiye, main weekend tak batata hoon.",0.0
+C0012,2025-05-19,Can we reschedule the call to Thursday afternoon?,0.0
+C0013,2025-03-20,"Happy with the discussion so far, the team seems wonderful. Please share the next steps.",0.8979
+C0013,2025-03-20,"Sounds great, I'm keen to join and will share the documents today.",0.875
+C0013,2025-03-21,Received your email. I will go through it and revert.,0.0
+C0013,2025-03-21,I am available on Monday or Tuesday after 4 pm.,0.0
+C0013,2025-03-21,"Ok, sending my updated resume as requested.",0.0
+C0014,2025-05-14,Could you confirm the location and the reporting manager?,0.0
+C0014,2025-05-16,Thanks for the update! I'm really excited about the Senior Backend Engineer role and happy to move ahead.,0.862
+C0014,2025-05-16,Noted. I'll get back to you by end of week.,0.0
+C0016,2025-05-05,Could you confirm the location and the reporting manager?,0.0
+C0016,2025-05-05,"Sounds great, I'm keen to join and will share the documents today.",0.875
+C0016,2025-05-05,"Mujhe lagta hai ye offer kaafi kam hai, abhi doosre options bhi dekh raha hoon.",0.0
+C0016,2025-05-05,Received your email. I will go through it and revert.,0.0
+C0016,2025-05-05,"Love the details, thanks for being so transparent. Really appreciate it!",0.8921
+C0016,2025-05-05,Received your email. I will go through it and revert.,0.0
+C0017,2025-04-21,"Sounds great, I'm keen to join and will share the documents today.",0.875
+C0017,2025-04-21,Could you confirm the location and the reporting manager?,0.0
+C0017,2025-04-21,Noted. I'll get back to you by end of week.,0.0
+C0017,2025-04-21,"Awesome, thank you! I'm confident this is a good fit and I'm very interested.",0.9551
+C0018,2025-05-03,"Love the details, thanks for being so transparent. Really appreciate it!",0.8921
+C0018,2025-05-03,"Awesome, thank you! I'm confident this is a good fit and I'm very interested.",0.9551
+C0018,2025-05-04,"Mujhe lagta hai ye offer kaafi kam hai, abhi doosre options bhi dekh raha hoon.",0.0
+C0019,2025-05-26,Received your email. I will go through it and revert.,0.0
+C0019,2025-05-26,I am available on Monday or Tuesday after 4 pm.,0.0
+C0019,2025-05-26,"Love the details, thanks for being so transparent. Really appreciate it!",0.8921
+C0019,2025-05-28,"Bilkul maza nahi aaya process mein, bahut time lag raha hai.",-0.34
+C0019,2025-05-28,"Not happy with the hike offered, I was expecting much more. This is upsetting.",-0.7478
+C0023,2025-05-31,"Mujhe thoda time chahiye, main weekend tak batata hoon.",0.0
+C0023,2025-05-31,"Mujhe thoda time chahiye, main weekend tak batata hoon.",0.0
+C0023,2025-05-31,"Bilkul maza nahi aaya process mein, bahut time lag raha hai.",-0.34
+C0023,2025-05-31,Noted. I'll get back to you by end of week.,0.0
+C0023,2025-05-31,"Love the details, thanks for being so transparent. Really appreciate it!",0.8921
+C0023,2025-05-31,"Ok, sending my updated resume as requested.",0.0
+C0025,2025-03-14,I am available on Monday or Tuesday after 4 pm.,0.0
+C0025,2025-03-15,Thank you so much for the quick turnaround. This sounds like a fantastic opportunity.,0.886
+C0025,2025-03-17,Thanks for the update! I'm really excited about the Senior Backend Engineer role and happy to move ahead.,0.862
+C0025,2025-03-21,Please share the job description and the compensation structure.,0.5423
+C0025,2025-03-24,"Sounds great, I'm keen to join and will share the documents today.",0.875
+C0026,2025-04-12,"Awesome, thank you! I'm confident this is a good fit and I'm very interested.",0.9551
+C0026,2025-04-13,"Sounds great, I'm keen to join and will share the documents today.",0.875
+C0026,2025-04-13,Thanks for the update! I'm really excited about the Senior Backend Engineer role and happy to move ahead.,0.862
+C0026,2025-04-14,Thank you so much for the quick turnaround. This sounds like a fantastic opportunity.,0.886
+C0027,2025-06-01,Thank you so much for the quick turnaround. This sounds like a fantastic opportunity.,0.886
+C0027,2025-06-01,Received your email. I will go through it and revert.,0.0
+C0027,2025-06-01,"Awesome, thank you! I'm confident this is a good fit and I'm very interested.",0.9551
+C0030,2025-05-13,Noted. I'll get back to you by end of week.,0.0
+C0030,2025-05-13,Can we reschedule the call to Thursday afternoon?,0.0
+C0030,2025-05-13,The process has been too slow and I'm losing interest.,0.1027
+C0030,2025-05-13,The process has been too slow and I'm losing interest.,0.1027
+C0033,2025-04-20,Noted. I'll get back to you by end of week.,0.0
+C0033,2025-04-29,"Happy with the discussion so far, the team seems wonderful. Please share the next steps.",0.8979
+C0033,2025-05-03,"Bilkul maza nahi aaya process mein, bahut time lag raha hai.",-0.34
+C0033,2025-05-17,Noted. I'll get back to you by end of week.,0.0
+C0033,2025-05-19,Thank you so much for the quick turnaround. This sounds like a fantastic opportunity.,0.886
+C0035,2025-05-25,Thanks for the update! I'm really excited about the Senior Backend Engineer role and happy to move ahead.,0.862
+C0035,2025-05-26,"Happy with the discussion so far, the team seems wonderful. Please share the next steps.",0.8979
+C0035,2025-05-27,Thanks for the update! I'm really excited about the Senior Backend Engineer role and happy to move ahead.,0.862
+C0035,2025-05-28,"Sorry, I'm no longer comfortable with this timeline. I need to rethink.",-0.6372
+C0035,2025-05-30,"Bilkul maza nahi aaya process mein, bahut time lag raha hai.",-0.34
+C0035,2025-05-31,Noted. I'll get back to you by end of week.,0.0
+C0036,2025-05-15,Thanks for the update! I'm really excited about the Senior Backend Engineer role and happy to move ahead.,0.862
+C0036,2025-05-15,"Mujhe lagta hai ye offer kaafi kam hai, abhi doosre options bhi dekh raha hoon.",0.0
+C0036,2025-05-15,Can we reschedule the call to Thursday afternoon?,0.0
+C0036,2025-05-15,"Honestly I'm frustrated with the delays, and I have other offers waiting.",-0.1027
+C0037,2025-05-13,Can we reschedule the call to Thursday afternoon?,0.0
+C0037,2025-05-13,"Happy with the discussion so far, the team seems wonderful. Please share the next steps.",0.8979
+C0039,2025-02-20,Received your email. I will go through it and revert.,0.0
+C0039,2025-02-21,"Sorry, I'm no longer comfortable with this timeline. I need to rethink.",-0.6372
+C0041,2025-05-26,Please share the job description and the compensation structure.,0.5423
+C0041,2025-05-26,"Bilkul maza nahi aaya process mein, bahut time lag raha hai.",-0.34
+C0041,2025-05-26,"Awesome, thank you! I'm confident this is a good fit and I'm very interested.",0.9551
+C0041,2025-05-27,"Mujhe thoda time chahiye, main weekend tak batata hoon.",0.0
+C0041,2025-05-27,"Mujhe lagta hai ye offer kaafi kam hai, abhi doosre options bhi dekh raha hoon.",0.0
+C0041,2025-05-27,"Bahut accha laga team se milke, excited hoon aage badhne ke liye!",0.4003
+C0042,2025-05-06,"Ok, sending my updated resume as requested.",0.0
+C0042,2025-05-10,Can we reschedule the call to Thursday afternoon?,0.0
+C0042,2025-05-10,"Love the details, thanks for being so transparent. Really appreciate it!",0.8921
+C0042,2025-05-10,"Sounds great, I'm keen to join and will share the documents today.",0.875
+C0047,2025-03-02,Could you confirm the location and the reporting manager?,0.0
+C0047,2025-03-04,Noted. I'll get back to you by end of week.,0.0
+C0047,2025-03-04,Could you confirm the location and the reporting manager?,0.0
+C0047,2025-03-06,Can we reschedule the call to Thursday afternoon?,0.0
+C0047,2025-03-06,"Love the details, thanks for being so transparent. Really appreciate it!",0.8921
+C0047,2025-03-08,Received your email. I will go through it and revert.,0.0
+C0049,2025-03-19,Thank you so much for the quick turnaround. This sounds like a fantastic opportunity.,0.886
+C0049,2025-03-22,Can we reschedule the call to Thursday afternoon?,0.0
+C0049,2025-04-01,Please share the job description and the compensation structure.,0.5423
+C0049,2025-04-15,Could you confirm the location and the reporting manager?,0.0
+C0049,2025-04-17,"Happy with the discussion so far, the team seems wonderful. Please share the next steps.",0.8979
+C0051,2025-04-27,"Love the details, thanks for being so transparent. Really appreciate it!",0.8921
+C0051,2025-04-28,Thank you so much for the quick turnaround. This sounds like a fantastic opportunity.,0.886
+C0051,2025-04-28,Noted. I'll get back to you by end of week.,0.0
+C0051,2025-05-01,"Sorry, I'm no longer comfortable with this timeline. I need to rethink.",-0.6372
+C0051,2025-05-04,The process has been too slow and I'm losing interest.,0.1027
+C0051,2025-05-05,The process has been too slow and I'm losing interest.,0.1027
+C0054,2025-05-11,Can we reschedule the call to Thursday afternoon?,0.0
+C0054,2025-05-11,"Love the details, thanks for being so transparent. Really appreciate it!",0.8921
+C0054,2025-05-11,Could you confirm the location and the reporting manager?,0.0
+C0054,2025-05-12,"Love the details, thanks for being so transparent. Really appreciate it!",0.8921
+C0055,2025-04-20,"Awesome, thank you! I'm confident this is a good fit and I'm very interested.",0.9551
+C0055,2025-04-20,I am available on Monday or Tuesday after 4 pm.,0.0
+C0055,2025-04-20,"Sounds great, I'm keen to join and will share the documents today.",0.875
+C0055,2025-04-20,Thank you so much for the quick turnaround. This sounds like a fantastic opportunity.,0.886
+C0056,2025-05-04,Received your email. I will go through it and revert.,0.0
+C0056,2025-05-31,Can we reschedule the call to Thursday afternoon?,0.0
+C0057,2025-05-20,"Happy with the discussion so far, the team seems wonderful. Please share the next steps.",0.8979
+C0057,2025-05-21,"Mujhe thoda time chahiye, main weekend tak batata hoon.",0.0
+C0057,2025-05-24,"I'm not sure this is the right fit anymore, the compensation is disappointing.",-0.3944
+C0062,2025-04-27,"Great, that works for me. Looking forward to the next round!",0.6588
+C0062,2025-04-27,"Great, that works for me. Looking forward to the next round!",0.6588
+C0062,2025-05-02,I am available on Monday or Tuesday after 4 pm.,0.0
+C0062,2025-05-04,"Ok, sending my updated resume as requested.",0.0
+C0062,2025-05-05,"Great, that works for me. Looking forward to the next round!",0.6588
+C0063,2025-04-26,"Awesome, thank you! I'm confident this is a good fit and I'm very interested.",0.9551
+C0063,2025-05-02,"Mujhe thoda time chahiye, main weekend tak batata hoon.",0.0
+C0063,2025-05-06,"Awesome, thank you! I'm confident this is a good fit and I'm very interested.",0.9551
+C0063,2025-05-12,"Ok, sending my updated resume as requested.",0.0
+C0063,2025-05-20,I am available on Monday or Tuesday after 4 pm.,0.0
+C0063,2025-05-25,"Love the details, thanks for being so transparent. Really appreciate it!",0.8921
+C0064,2025-02-22,"Awesome, thank you! I'm confident this is a good fit and I'm very interested.",0.9551
+C0064,2025-03-30,"Love the details, thanks for being so transparent. Really appreciate it!",0.8921
+C0064,2025-04-10,Please share the job description and the compensation structure.,0.5423
+C0065,2025-04-29,I am available on Monday or Tuesday after 4 pm.,0.0
+C0065,2025-04-29,Could you confirm the location and the reporting manager?,0.0
+C0065,2025-04-29,"Happy with the discussion so far, the team seems wonderful. Please share the next steps.",0.8979
+C0066,2025-04-04,Another company has made a better offer. I'm worried about the notice buyout.,0.1779
+C0066,2025-04-06,I am available on Monday or Tuesday after 4 pm.,0.0
+C0066,2025-04-08,"Sorry, I'm no longer comfortable with this timeline. I need to rethink.",-0.6372
+C0066,2025-04-08,I am available on Monday or Tuesday after 4 pm.,0.0
+C0066,2025-04-09,Could you confirm the location and the reporting manager?,0.0
+C0066,2025-04-11,"Mujhe thoda time chahiye, main weekend tak batata hoon.",0.0
+C0069,2025-05-24,"Sounds great, I'm keen to join and will share the documents today.",0.875
+C0069,2025-05-24,Noted. I'll get back to you by end of week.,0.0
+C0069,2025-05-26,"Love the details, thanks for being so transparent. Really appreciate it!",0.8921
+C0069,2025-05-29,Noted. I'll get back to you by end of week.,0.0
+C0070,2025-04-25,"Ok, sending my updated resume as requested.",0.0
+C0070,2025-04-29,I am available on Monday or Tuesday after 4 pm.,0.0
+C0070,2025-04-30,Could you confirm the location and the reporting manager?,0.0
+C0070,2025-04-30,Can we reschedule the call to Thursday afternoon?,0.0
+C0071,2025-05-10,"Happy with the discussion so far, the team seems wonderful. Please share the next steps.",0.8979
+C0071,2025-05-16,Thanks for the update! I'm really excited about the Senior Backend Engineer role and happy to move ahead.,0.862
+C0071,2025-05-17,"Ok, sending my updated resume as requested.",0.0
+C0071,2025-05-18,Could you confirm the location and the reporting manager?,0.0
+C0071,2025-05-18,"Sorry, I'm no longer comfortable with this timeline. I need to rethink.",-0.6372
+C0072,2025-05-10,"Great, that works for me. Looking forward to the next round!",0.6588
+C0072,2025-06-01,The process has been too slow and I'm losing interest.,0.1027
+C0074,2025-03-21,"Mujhe thoda time chahiye, main weekend tak batata hoon.",0.0
+C0074,2025-03-21,"Awesome, thank you! I'm confident this is a good fit and I'm very interested.",0.9551
+C0075,2025-05-04,"Awesome, thank you! I'm confident this is a good fit and I'm very interested.",0.9551
+C0075,2025-05-04,"Sorry, I'm no longer comfortable with this timeline. I need to rethink.",-0.6372
+C0076,2025-05-26,I am available on Monday or Tuesday after 4 pm.,0.0
+C0076,2025-05-27,"Honestly I'm frustrated with the delays, and I have other offers waiting.",-0.1027
+C0076,2025-05-29,"Not happy with the hike offered, I was expecting much more. This is upsetting.",-0.7478
+C0076,2025-05-29,"Love the details, thanks for being so transparent. Really appreciate it!",0.8921
+C0076,2025-05-31,Received your email. I will go through it and revert.,0.0
+C0080,2025-05-31,"Happy with the discussion so far, the team seems wonderful. Please share the next steps.",0.8979
+C0080,2025-05-31,"Great, that works for me. Looking forward to the next round!",0.6588
+C0082,2025-04-29,"I'm not sure this is the right fit anymore, the compensation is disappointing.",-0.3944
+C0082,2025-04-30,"Bahut accha laga team se milke, excited hoon aage badhne ke liye!",0.4003
+C0083,2025-05-23,Please share the job description and the compensation structure.,0.5423
+C0083,2025-05-23,Could you confirm the location and the reporting manager?,0.0
+C0083,2025-05-23,The process has been too slow and I'm losing interest.,0.1027
+C0085,2025-05-21,"Mujhe thoda time chahiye, main weekend tak batata hoon.",0.0
+C0085,2025-05-25,Noted. I'll get back to you by end of week.,0.0
+C0086,2025-05-19,Thank you so much for the quick turnaround. This sounds like a fantastic opportunity.,0.886
+C0086,2025-05-20,"Bahut accha laga team se milke, excited hoon aage badhne ke liye!",0.4003
+C0086,2025-05-20,"Mujhe thoda time chahiye, main weekend tak batata hoon.",0.0
+C0086,2025-05-21,"Not happy with the hike offered, I was expecting much more. This is upsetting.",-0.7478
+C0086,2025-05-21,The process has been too slow and I'm losing interest.,0.1027
+C0088,2025-04-27,"Sounds great, I'm keen to join and will share the documents today.",0.875
+C0088,2025-04-28,"Happy with the discussion so far, the team seems wonderful. Please share the next steps.",0.8979
+C0088,2025-05-01,"Bahut accha laga team se milke, excited hoon aage badhne ke liye!",0.4003
+C0088,2025-05-01,I am available on Monday or Tuesday after 4 pm.,0.0
+C0090,2025-05-24,"I'm not sure this is the right fit anymore, the compensation is disappointing.",-0.3944
+C0090,2025-05-26,"Honestly I'm frustrated with the delays, and I have other offers waiting.",-0.1027
+C0090,2025-05-29,Received your email. I will go through it and revert.,0.0
+C0090,2025-06-02,"Bilkul maza nahi aaya process mein, bahut time lag raha hai.",-0.34
+C0090,2025-06-02,"Awesome, thank you! I'm confident this is a good fit and I'm very interested.",0.9551
+C0092,2025-04-20,Thanks for the update! I'm really excited about the Frontend Engineer role and happy to move ahead.,0.862
+C0092,2025-04-26,Another company has made a better offer. I'm worried about the notice buyout.,0.1779
+C0093,2025-05-30,Thanks for the update! I'm really excited about the Frontend Engineer role and happy to move ahead.,0.862
+C0093,2025-06-01,"Sounds great, I'm keen to join and will share the documents today.",0.875
+C0095,2025-05-01,"Great, that works for me. Looking forward to the next round!",0.6588
+C0095,2025-05-08,"Honestly I'm frustrated with the delays, and I have other offers waiting.",-0.1027
+C0095,2025-05-10,"Awesome, thank you! I'm confident this is a good fit and I'm very interested.",0.9551
+C0095,2025-05-11,"I'm not sure this is the right fit anymore, the compensation is disappointing.",-0.3944
+C0096,2025-05-13,"Happy with the discussion so far, the team seems wonderful. Please share the next steps.",0.8979
+C0096,2025-05-14,"Great, that works for me. Looking forward to the next round!",0.6588
+C0096,2025-05-14,Received your email. I will go through it and revert.,0.0
+C0096,2025-05-15,Thanks for the update! I'm really excited about the Frontend Engineer role and happy to move ahead.,0.862
+C0098,2025-04-19,Thanks for the update! I'm really excited about the Frontend Engineer role and happy to move ahead.,0.862
+C0098,2025-04-19,Please share the job description and the compensation structure.,0.5423
+C0098,2025-04-19,"Mujhe lagta hai ye offer kaafi kam hai, abhi doosre options bhi dekh raha hoon.",0.0
+C0098,2025-04-19,Could you confirm the location and the reporting manager?,0.0
+C0099,2025-03-06,Received your email. I will go through it and revert.,0.0
+C0099,2025-03-13,Can we reschedule the call to Thursday afternoon?,0.0
+C0099,2025-03-13,"I'm not sure this is the right fit anymore, the compensation is disappointing.",-0.3944
+C0101,2025-05-27,"Mujhe thoda time chahiye, main weekend tak batata hoon.",0.0
+C0101,2025-05-27,"Sounds great, I'm keen to join and will share the documents today.",0.875
+C0101,2025-05-27,"Not happy with the hike offered, I was expecting much more. This is upsetting.",-0.7478
+C0101,2025-05-27,"Mujhe thoda time chahiye, main weekend tak batata hoon.",0.0
+C0102,2025-05-05,"Sounds great, I'm keen to join and will share the documents today.",0.875
+C0102,2025-05-11,Thanks for the update! I'm really excited about the Frontend Engineer role and happy to move ahead.,0.862
+C0102,2025-05-13,"Sorry, I'm no longer comfortable with this timeline. I need to rethink.",-0.6372
+C0102,2025-05-14,Thanks for the update! I'm really excited about the Frontend Engineer role and happy to move ahead.,0.862
+C0103,2025-05-13,"I'm not sure this is the right fit anymore, the compensation is disappointing.",-0.3944
+C0103,2025-05-14,"Ok, sending my updated resume as requested.",0.0
+C0103,2025-05-16,Could you confirm the location and the reporting manager?,0.0
+C0103,2025-05-16,Noted. I'll get back to you by end of week.,0.0
+C0103,2025-05-17,Thanks for the update! I'm really excited about the Frontend Engineer role and happy to move ahead.,0.862
+C0107,2025-04-01,"Mujhe thoda time chahiye, main weekend tak batata hoon.",0.0
+C0107,2025-04-01,Received your email. I will go through it and revert.,0.0
+C0107,2025-04-02,The process has been too slow and I'm losing interest.,0.1027
+C0107,2025-04-02,The process has been too slow and I'm losing interest.,0.1027
+C0108,2025-04-19,"Happy with the discussion so far, the team seems wonderful. Please share the next steps.",0.8979
+C0108,2025-04-20,"Mujhe thoda time chahiye, main weekend tak batata hoon.",0.0
+C0108,2025-04-21,Please share the job description and the compensation structure.,0.5423
+C0108,2025-04-29,Please share the job description and the compensation structure.,0.5423
+C0108,2025-04-30,Please share the job description and the compensation structure.,0.5423
+C0108,2025-05-01,Could you confirm the location and the reporting manager?,0.0
+C0114,2025-05-07,"Love the details, thanks for being so transparent. Really appreciate it!",0.8921
+C0114,2025-05-10,"Bahut accha laga team se milke, excited hoon aage badhne ke liye!",0.4003
+C0114,2025-05-11,"Sorry, I'm no longer comfortable with this timeline. I need to rethink.",-0.6372
+C0114,2025-05-14,The process has been too slow and I'm losing interest.,0.1027
+C0114,2025-05-19,"Bilkul maza nahi aaya process mein, bahut time lag raha hai.",-0.34
+C0114,2025-05-21,"Mujhe thoda time chahiye, main weekend tak batata hoon.",0.0
+C0115,2025-05-29,"Love the details, thanks for being so transparent. Really appreciate it!",0.8921
+C0115,2025-05-31,"Sorry, I'm no longer comfortable with this timeline. I need to rethink.",-0.6372
+C0116,2025-05-17,"Not happy with the hike offered, I was expecting much more. This is upsetting.",-0.7478
+C0116,2025-05-18,"Love the details, thanks for being so transparent. Really appreciate it!",0.8921
+C0116,2025-05-18,"Mujhe thoda time chahiye, main weekend tak batata hoon.",0.0
+C0116,2025-05-19,"Sorry, I'm no longer comfortable with this timeline. I need to rethink.",-0.6372
+C0117,2025-05-20,"Sounds great, I'm keen to join and will share the documents today.",0.875
+C0117,2025-05-22,"I'm not sure this is the right fit anymore, the compensation is disappointing.",-0.3944
+C0117,2025-05-23,"Great, that works for me. Looking forward to the next round!",0.6588
+C0117,2025-05-24,"Love the details, thanks for being so transparent. Really appreciate it!",0.8921
+C0117,2025-05-24,Could you confirm the location and the reporting manager?,0.0
+C0119,2025-05-11,"Awesome, thank you! I'm confident this is a good fit and I'm very interested.",0.9551
+C0119,2025-05-13,"Mujhe lagta hai ye offer kaafi kam hai, abhi doosre options bhi dekh raha hoon.",0.0
+C0121,2025-03-01,"Awesome, thank you! I'm confident this is a good fit and I'm very interested.",0.9551
+C0121,2025-03-01,"Honestly I'm frustrated with the delays, and I have other offers waiting.",-0.1027
+C0121,2025-03-02,"Not happy with the hike offered, I was expecting much more. This is upsetting.",-0.7478
+C0122,2025-06-01,Could you confirm the location and the reporting manager?,0.0
+C0122,2025-06-02,Thanks for the update! I'm really excited about the Frontend Engineer role and happy to move ahead.,0.862
+C0122,2025-06-02,"Mujhe lagta hai ye offer kaafi kam hai, abhi doosre options bhi dekh raha hoon.",0.0
+C0122,2025-06-02,Can we reschedule the call to Thursday afternoon?,0.0
+C0124,2025-05-18,I am available on Monday or Tuesday after 4 pm.,0.0
+C0124,2025-05-18,Thank you so much for the quick turnaround. This sounds like a fantastic opportunity.,0.886
+C0126,2025-06-02,Noted. I'll get back to you by end of week.,0.0
+C0126,2025-06-02,The process has been too slow and I'm losing interest.,0.1027
+C0128,2025-05-30,"Bahut accha laga team se milke, excited hoon aage badhne ke liye!",0.4003
+C0128,2025-05-30,Thanks for the update! I'm really excited about the Frontend Engineer role and happy to move ahead.,0.862
+C0128,2025-05-30,"Mujhe lagta hai ye offer kaafi kam hai, abhi doosre options bhi dekh raha hoon.",0.0
+C0128,2025-05-31,Another company has made a better offer. I'm worried about the notice buyout.,0.1779
+C0128,2025-05-31,"Bilkul maza nahi aaya process mein, bahut time lag raha hai.",-0.34
+C0130,2025-05-23,"Awesome, thank you! I'm confident this is a good fit and I'm very interested.",0.9551
+C0130,2025-05-25,"Bahut accha laga team se milke, excited hoon aage badhne ke liye!",0.4003
+C0130,2025-05-26,"Mujhe lagta hai ye offer kaafi kam hai, abhi doosre options bhi dekh raha hoon.",0.0
+C0130,2025-05-28,"Not happy with the hike offered, I was expecting much more. This is upsetting.",-0.7478
+C0130,2025-05-29,"Mujhe lagta hai ye offer kaafi kam hai, abhi doosre options bhi dekh raha hoon.",0.0
+C0132,2025-05-16,Noted. I'll get back to you by end of week.,0.0
+C0132,2025-05-19,"Ok, sending my updated resume as requested.",0.0
+C0132,2025-05-25,I am available on Monday or Tuesday after 4 pm.,0.0
+C0132,2025-05-28,"Awesome, thank you! I'm confident this is a good fit and I'm very interested.",0.9551
+C0132,2025-05-30,Thanks for the update! I'm really excited about the Frontend Engineer role and happy to move ahead.,0.862
+C0133,2025-05-17,"Ok, sending my updated resume as requested.",0.0
+C0133,2025-05-21,"Ok, sending my updated resume as requested.",0.0
+C0133,2025-05-28,Please share the job description and the compensation structure.,0.5423
+C0133,2025-05-29,"Happy with the discussion so far, the team seems wonderful. Please share the next steps.",0.8979
+C0134,2025-05-29,Noted. I'll get back to you by end of week.,0.0
+C0134,2025-05-29,"I'm not sure this is the right fit anymore, the compensation is disappointing.",-0.3944
+C0134,2025-05-29,The process has been too slow and I'm losing interest.,0.1027
+C0134,2025-05-29,"Bilkul maza nahi aaya process mein, bahut time lag raha hai.",-0.34
+C0134,2025-05-29,"Mujhe thoda time chahiye, main weekend tak batata hoon.",0.0
+C0135,2025-02-16,"Bahut accha laga team se milke, excited hoon aage badhne ke liye!",0.4003
+C0135,2025-02-17,"Bahut accha laga team se milke, excited hoon aage badhne ke liye!",0.4003
+C0135,2025-02-18,"Bahut accha laga team se milke, excited hoon aage badhne ke liye!",0.4003
+C0135,2025-02-21,"Mujhe thoda time chahiye, main weekend tak batata hoon.",0.0
+C0136,2025-05-20,"Bilkul maza nahi aaya process mein, bahut time lag raha hai.",-0.34
+C0136,2025-05-31,"Love the details, thanks for being so transparent. Really appreciate it!",0.8921
+C0137,2025-03-24,"Bilkul maza nahi aaya process mein, bahut time lag raha hai.",-0.34
+C0137,2025-03-24,"Sorry, I'm no longer comfortable with this timeline. I need to rethink.",-0.6372
+C0137,2025-03-24,"Honestly I'm frustrated with the delays, and I have other offers waiting.",-0.1027
+C0137,2025-03-24,I am available on Monday or Tuesday after 4 pm.,0.0
+C0137,2025-03-24,Thank you so much for the quick turnaround. This sounds like a fantastic opportunity.,0.886
+C0137,2025-03-24,Could you confirm the location and the reporting manager?,0.0
+C0140,2025-05-09,"Sorry, I'm no longer comfortable with this timeline. I need to rethink.",-0.6372
+C0140,2025-05-10,Can we reschedule the call to Thursday afternoon?,0.0
+C0140,2025-05-12,Noted. I'll get back to you by end of week.,0.0
+C0140,2025-05-18,"Sorry, I'm no longer comfortable with this timeline. I need to rethink.",-0.6372
+C0140,2025-05-23,"Great, that works for me. Looking forward to the next round!",0.6588
+C0141,2025-05-31,Please share the job description and the compensation structure.,0.5423
+C0141,2025-05-31,"Sounds great, I'm keen to join and will share the documents today.",0.875
+C0141,2025-05-31,"Sounds great, I'm keen to join and will share the documents today.",0.875
+C0141,2025-05-31,Could you confirm the location and the reporting manager?,0.0
+C0141,2025-06-01,"Love the details, thanks for being so transparent. Really appreciate it!",0.8921
+C0141,2025-06-02,Noted. I'll get back to you by end of week.,0.0
+C0145,2025-05-29,The process has been too slow and I'm losing interest.,0.1027
+C0145,2025-05-29,Please share the job description and the compensation structure.,0.5423
+C0145,2025-05-30,"Happy with the discussion so far, the team seems wonderful. Please share the next steps.",0.8979
+C0145,2025-05-30,"Love the details, thanks for being so transparent. Really appreciate it!",0.8921
+C0147,2025-05-28,"Happy with the discussion so far, the team seems wonderful. Please share the next steps.",0.8979
+C0147,2025-05-28,"Mujhe lagta hai ye offer kaafi kam hai, abhi doosre options bhi dekh raha hoon.",0.0
+C0147,2025-05-28,"Mujhe thoda time chahiye, main weekend tak batata hoon.",0.0
+C0147,2025-05-28,"Great, that works for me. Looking forward to the next round!",0.6588
+C0147,2025-05-28,"Mujhe thoda time chahiye, main weekend tak batata hoon.",0.0
+C0148,2025-04-29,"Ok, sending my updated resume as requested.",0.0
+C0148,2025-04-29,"Ok, sending my updated resume as requested.",0.0
+C0148,2025-04-29,I am available on Monday or Tuesday after 4 pm.,0.0
+C0148,2025-04-29,"Mujhe lagta hai ye offer kaafi kam hai, abhi doosre options bhi dekh raha hoon.",0.0
+C0148,2025-04-29,"Mujhe lagta hai ye offer kaafi kam hai, abhi doosre options bhi dekh raha hoon.",0.0
+C0148,2025-04-29,"Bilkul maza nahi aaya process mein, bahut time lag raha hai.",-0.34
+C0149,2025-04-01,Thank you so much for the quick turnaround. This sounds like a fantastic opportunity.,0.886
+C0149,2025-04-08,The process has been too slow and I'm losing interest.,0.1027
+C0149,2025-04-08,"Great, that works for me. Looking forward to the next round!",0.6588
+C0149,2025-04-12,I am available on Monday or Tuesday after 4 pm.,0.0
+C0149,2025-04-15,Please share the job description and the compensation structure.,0.5423
+C0150,2025-03-24,"Happy with the discussion so far, the team seems wonderful. Please share the next steps.",0.8979
+C0150,2025-03-25,Thanks for the update! I'm really excited about the Data Scientist role and happy to move ahead.,0.862
+C0150,2025-03-25,Thank you so much for the quick turnaround. This sounds like a fantastic opportunity.,0.886
+C0150,2025-03-25,Thanks for the update! I'm really excited about the Data Scientist role and happy to move ahead.,0.862
+C0150,2025-03-26,"Honestly I'm frustrated with the delays, and I have other offers waiting.",-0.1027
+C0154,2025-05-24,"Not happy with the hike offered, I was expecting much more. This is upsetting.",-0.7478
+C0154,2025-05-26,"Ok, sending my updated resume as requested.",0.0
+C0154,2025-05-26,"Awesome, thank you! I'm confident this is a good fit and I'm very interested.",0.9551
+C0154,2025-05-29,"Love the details, thanks for being so transparent. Really appreciate it!",0.8921
+C0154,2025-05-30,"Sounds great, I'm keen to join and will share the documents today.",0.875
+C0155,2025-05-20,"Ok, sending my updated resume as requested.",0.0
+C0155,2025-05-22,Can we reschedule the call to Thursday afternoon?,0.0
+C0155,2025-05-24,"Bahut accha laga team se milke, excited hoon aage badhne ke liye!",0.4003
+C0156,2025-05-27,Noted. I'll get back to you by end of week.,0.0
+C0156,2025-05-28,"Mujhe lagta hai ye offer kaafi kam hai, abhi doosre options bhi dekh raha hoon.",0.0
+C0156,2025-05-28,Can we reschedule the call to Thursday afternoon?,0.0
+C0156,2025-05-28,"Bahut accha laga team se milke, excited hoon aage badhne ke liye!",0.4003
+C0156,2025-05-29,Thanks for the update! I'm really excited about the Data Scientist role and happy to move ahead.,0.862
+C0156,2025-05-31,"Sounds great, I'm keen to join and will share the documents today.",0.875
+C0157,2025-05-20,"Great, that works for me. Looking forward to the next round!",0.6588
+C0157,2025-05-20,"Great, that works for me. Looking forward to the next round!",0.6588
+C0157,2025-05-20,"Bahut accha laga team se milke, excited hoon aage badhne ke liye!",0.4003
+C0157,2025-05-20,Can we reschedule the call to Thursday afternoon?,0.0
+C0158,2025-05-17,Thank you so much for the quick turnaround. This sounds like a fantastic opportunity.,0.886
+C0158,2025-05-22,Please share the job description and the compensation structure.,0.5423
+C0158,2025-05-23,Can we reschedule the call to Thursday afternoon?,0.0
+C0158,2025-05-28,"Sounds great, I'm keen to join and will share the documents today.",0.875
+C0158,2025-06-01,"Sounds great, I'm keen to join and will share the documents today.",0.875
+C0159,2025-05-07,Thank you so much for the quick turnaround. This sounds like a fantastic opportunity.,0.886
+C0159,2025-05-07,"Awesome, thank you! I'm confident this is a good fit and I'm very interested.",0.9551
+C0160,2025-02-06,"Awesome, thank you! I'm confident this is a good fit and I'm very interested.",0.9551
+C0160,2025-02-06,I am available on Monday or Tuesday after 4 pm.,0.0
+C0161,2025-05-27,Thanks for the update! I'm really excited about the Data Scientist role and happy to move ahead.,0.862
+C0161,2025-05-28,"Mujhe lagta hai ye offer kaafi kam hai, abhi doosre options bhi dekh raha hoon.",0.0
+C0161,2025-05-29,Can we reschedule the call to Thursday afternoon?,0.0
+C0161,2025-05-30,"Ok, sending my updated resume as requested.",0.0
+C0162,2025-05-01,"Honestly I'm frustrated with the delays, and I have other offers waiting.",-0.1027
+C0162,2025-05-01,Can we reschedule the call to Thursday afternoon?,0.0
+C0162,2025-05-01,"Sounds great, I'm keen to join and will share the documents today.",0.875
+C0164,2025-05-22,Received your email. I will go through it and revert.,0.0
+C0164,2025-05-23,Could you confirm the location and the reporting manager?,0.0
+C0164,2025-05-24,Received your email. I will go through it and revert.,0.0
+C0164,2025-05-29,"Ok, sending my updated resume as requested.",0.0
+C0164,2025-05-30,Could you confirm the location and the reporting manager?,0.0
+C0164,2025-05-31,Please share the job description and the compensation structure.,0.5423
+C0165,2025-05-16,"Bahut accha laga team se milke, excited hoon aage badhne ke liye!",0.4003
+C0165,2025-05-21,"Sounds great, I'm keen to join and will share the documents today.",0.875
+C0165,2025-05-22,The process has been too slow and I'm losing interest.,0.1027
+C0165,2025-05-27,Received your email. I will go through it and revert.,0.0
+C0167,2025-05-07,"Not happy with the hike offered, I was expecting much more. This is upsetting.",-0.7478
+C0167,2025-05-07,"Bahut accha laga team se milke, excited hoon aage badhne ke liye!",0.4003
+C0167,2025-05-07,"Great, that works for me. Looking forward to the next round!",0.6588
+C0167,2025-05-07,"I'm not sure this is the right fit anymore, the compensation is disappointing.",-0.3944
+C0167,2025-05-07,"Sorry, I'm no longer comfortable with this timeline. I need to rethink.",-0.6372
+C0169,2025-05-19,Thanks for the update! I'm really excited about the Data Scientist role and happy to move ahead.,0.862
+C0169,2025-05-26,"Love the details, thanks for being so transparent. Really appreciate it!",0.8921
+C0169,2025-05-30,"Awesome, thank you! I'm confident this is a good fit and I'm very interested.",0.9551
+C0169,2025-05-30,"I'm not sure this is the right fit anymore, the compensation is disappointing.",-0.3944
+C0171,2025-03-16,Could you confirm the location and the reporting manager?,0.0
+C0171,2025-03-16,"Awesome, thank you! I'm confident this is a good fit and I'm very interested.",0.9551
+C0171,2025-03-16,"Ok, sending my updated resume as requested.",0.0
+C0171,2025-03-16,Please share the job description and the compensation structure.,0.5423
+C0171,2025-03-16,Received your email. I will go through it and revert.,0.0
+C0171,2025-03-16,Another company has made a better offer. I'm worried about the notice buyout.,0.1779
+C0173,2025-05-16,"Mujhe thoda time chahiye, main weekend tak batata hoon.",0.0
+C0173,2025-05-16,Thank you so much for the quick turnaround. This sounds like a fantastic opportunity.,0.886
+C0173,2025-05-17,Thanks for the update! I'm really excited about the Data Scientist role and happy to move ahead.,0.862
+C0173,2025-05-19,"Ok, sending my updated resume as requested.",0.0
+C0174,2025-05-07,"Bahut accha laga team se milke, excited hoon aage badhne ke liye!",0.4003
+C0174,2025-05-07,Please share the job description and the compensation structure.,0.5423
+C0174,2025-05-07,"I'm not sure this is the right fit anymore, the compensation is disappointing.",-0.3944
+C0178,2025-05-02,"Sounds great, I'm keen to join and will share the documents today.",0.875
+C0178,2025-05-02,"Love the details, thanks for being so transparent. Really appreciate it!",0.8921
+C0178,2025-05-19,"Love the details, thanks for being so transparent. Really appreciate it!",0.8921
+C0178,2025-05-23,"Happy with the discussion so far, the team seems wonderful. Please share the next steps.",0.8979
+C0178,2025-05-24,Thanks for the update! I'm really excited about the Data Scientist role and happy to move ahead.,0.862
+C0178,2025-06-01,Could you confirm the location and the reporting manager?,0.0
+C0180,2025-04-08,Received your email. I will go through it and revert.,0.0
+C0180,2025-04-08,Could you confirm the location and the reporting manager?,0.0
+C0180,2025-04-08,"Awesome, thank you! I'm confident this is a good fit and I'm very interested.",0.9551
+C0180,2025-04-08,Received your email. I will go through it and revert.,0.0
+C0182,2025-05-07,"Ok, sending my updated resume as requested.",0.0
+C0182,2025-05-08,Can we reschedule the call to Thursday afternoon?,0.0
+C0182,2025-05-10,"Happy with the discussion so far, the team seems wonderful. Please share the next steps.",0.8979
+C0182,2025-05-11,"Sounds great, I'm keen to join and will share the documents today.",0.875
+C0182,2025-05-11,"Sounds great, I'm keen to join and will share the documents today.",0.875
+C0184,2025-05-15,"Ok, sending my updated resume as requested.",0.0
+C0184,2025-05-25,I am available on Monday or Tuesday after 4 pm.,0.0
+C0185,2025-03-30,Can we reschedule the call to Thursday afternoon?,0.0
+C0185,2025-03-31,"Ok, sending my updated resume as requested.",0.0
+C0185,2025-03-31,Received your email. I will go through it and revert.,0.0
+C0185,2025-03-31,Please share the job description and the compensation structure.,0.5423
+C0185,2025-04-01,Please share the job description and the compensation structure.,0.5423
+C0185,2025-04-01,Can we reschedule the call to Thursday afternoon?,0.0
+C0186,2025-04-25,I am available on Monday or Tuesday after 4 pm.,0.0
+C0186,2025-05-05,Noted. I'll get back to you by end of week.,0.0
+C0186,2025-05-07,I am available on Monday or Tuesday after 4 pm.,0.0
+C0186,2025-05-11,Could you confirm the location and the reporting manager?,0.0
+C0186,2025-05-15,Please share the job description and the compensation structure.,0.5423
+C0186,2025-05-28,Could you confirm the location and the reporting manager?,0.0
+C0188,2025-05-02,"Bahut accha laga team se milke, excited hoon aage badhne ke liye!",0.4003
+C0188,2025-05-03,"Great, that works for me. Looking forward to the next round!",0.6588
+C0190,2025-04-24,"Great, that works for me. Looking forward to the next round!",0.6588
+C0190,2025-04-26,Received your email. I will go through it and revert.,0.0
+C0191,2025-05-31,Could you confirm the location and the reporting manager?,0.0
+C0191,2025-05-31,"Mujhe thoda time chahiye, main weekend tak batata hoon.",0.0
+C0191,2025-05-31,Could you confirm the location and the reporting manager?,0.0
+C0191,2025-05-31,"Mujhe thoda time chahiye, main weekend tak batata hoon.",0.0
+C0192,2025-05-27,"Awesome, thank you! I'm confident this is a good fit and I'm very interested.",0.9551
+C0192,2025-05-27,I am available on Monday or Tuesday after 4 pm.,0.0
+C0192,2025-05-27,The process has been too slow and I'm losing interest.,0.1027
+C0192,2025-05-27,I am available on Monday or Tuesday after 4 pm.,0.0
+C0193,2025-05-30,"Love the details, thanks for being so transparent. Really appreciate it!",0.8921
+C0193,2025-05-30,"Love the details, thanks for being so transparent. Really appreciate it!",0.8921
+C0193,2025-05-31,Please share the job description and the compensation structure.,0.5423
+C0193,2025-05-31,"Bahut accha laga team se milke, excited hoon aage badhne ke liye!",0.4003
+C0194,2025-03-17,Thanks for the update! I'm really excited about the Data Scientist role and happy to move ahead.,0.862
+C0194,2025-03-20,Can we reschedule the call to Thursday afternoon?,0.0
+C0195,2025-05-12,"Sounds great, I'm keen to join and will share the documents today.",0.875
+C0195,2025-05-12,"Sounds great, I'm keen to join and will share the documents today.",0.875
+C0195,2025-05-12,"Sorry, I'm no longer comfortable with this timeline. I need to rethink.",-0.6372
+C0195,2025-05-12,Another company has made a better offer. I'm worried about the notice buyout.,0.1779
+C0199,2025-03-05,"Awesome, thank you! I'm confident this is a good fit and I'm very interested.",0.9551
+C0199,2025-03-05,"Sounds great, I'm keen to join and will share the documents today.",0.875
+C0199,2025-03-05,"Sorry, I'm no longer comfortable with this timeline. I need to rethink.",-0.6372
+C0199,2025-03-05,Noted. I'll get back to you by end of week.,0.0
+C0200,2025-05-11,"Honestly I'm frustrated with the delays, and I have other offers waiting.",-0.1027
+C0200,2025-05-12,"Mujhe lagta hai ye offer kaafi kam hai, abhi doosre options bhi dekh raha hoon.",0.0
+C0200,2025-05-14,"Happy with the discussion so far, the team seems wonderful. Please share the next steps.",0.8979
+C0200,2025-05-14,"Bahut accha laga team se milke, excited hoon aage badhne ke liye!",0.4003
+C0201,2025-05-31,Thank you so much for the quick turnaround. This sounds like a fantastic opportunity.,0.886
+C0201,2025-05-31,Another company has made a better offer. I'm worried about the notice buyout.,0.1779
+C0202,2025-05-02,Can we reschedule the call to Thursday afternoon?,0.0
+C0202,2025-05-03,"Great, that works for me. Looking forward to the next round!",0.6588
+C0202,2025-05-03,I am available on Monday or Tuesday after 4 pm.,0.0
+C0202,2025-05-03,"Mujhe thoda time chahiye, main weekend tak batata hoon.",0.0
+C0202,2025-05-03,"Bahut accha laga team se milke, excited hoon aage badhne ke liye!",0.4003
+C0206,2025-05-05,Noted. I'll get back to you by end of week.,0.0
+C0206,2025-05-05,"Ok, sending my updated resume as requested.",0.0
+C0206,2025-05-06,Thank you so much for the quick turnaround. This sounds like a fantastic opportunity.,0.886
+C0206,2025-05-07,"Happy with the discussion so far, the team seems wonderful. Please share the next steps.",0.8979
+C0206,2025-05-08,"Awesome, thank you! I'm confident this is a good fit and I'm very interested.",0.9551
+C0207,2025-06-02,"Not happy with the hike offered, I was expecting much more. This is upsetting.",-0.7478
+C0207,2025-06-02,"Awesome, thank you! I'm confident this is a good fit and I'm very interested.",0.9551
+C0207,2025-06-02,"Great, that works for me. Looking forward to the next round!",0.6588
+C0207,2025-06-02,"Mujhe lagta hai ye offer kaafi kam hai, abhi doosre options bhi dekh raha hoon.",0.0
+C0207,2025-06-02,"Mujhe lagta hai ye offer kaafi kam hai, abhi doosre options bhi dekh raha hoon.",0.0
+C0209,2025-05-21,Thank you so much for the quick turnaround. This sounds like a fantastic opportunity.,0.886
+C0209,2025-05-22,"Awesome, thank you! I'm confident this is a good fit and I'm very interested.",0.9551
+C0209,2025-05-24,"Bahut accha laga team se milke, excited hoon aage badhne ke liye!",0.4003
+C0210,2025-05-23,Thank you so much for the quick turnaround. This sounds like a fantastic opportunity.,0.886
+C0210,2025-05-24,"Love the details, thanks for being so transparent. Really appreciate it!",0.8921
+C0210,2025-05-28,"Love the details, thanks for being so transparent. Really appreciate it!",0.8921
+C0211,2025-03-25,"Bahut accha laga team se milke, excited hoon aage badhne ke liye!",0.4003
+C0211,2025-03-25,"Happy with the discussion so far, the team seems wonderful. Please share the next steps.",0.8979
+C0211,2025-03-27,The process has been too slow and I'm losing interest.,0.1027
+C0212,2025-04-16,Could you confirm the location and the reporting manager?,0.0
+C0212,2025-04-19,"Awesome, thank you! I'm confident this is a good fit and I'm very interested.",0.9551
+C0214,2025-05-14,Could you confirm the location and the reporting manager?,0.0
+C0214,2025-05-20,"Awesome, thank you! I'm confident this is a good fit and I'm very interested.",0.9551
+C0214,2025-05-23,"Sounds great, I'm keen to join and will share the documents today.",0.875
+C0214,2025-05-26,Thanks for the update! I'm really excited about the Data Engineer role and happy to move ahead.,0.862
+C0214,2025-06-01,"Happy with the discussion so far, the team seems wonderful. Please share the next steps.",0.8979
+C0217,2025-05-29,"Ok, sending my updated resume as requested.",0.0
+C0217,2025-06-02,"Bahut accha laga team se milke, excited hoon aage badhne ke liye!",0.4003
+C0217,2025-06-02,Noted. I'll get back to you by end of week.,0.0
+C0217,2025-06-02,"Love the details, thanks for being so transparent. Really appreciate it!",0.8921
+C0221,2025-05-21,"Mujhe lagta hai ye offer kaafi kam hai, abhi doosre options bhi dekh raha hoon.",0.0
+C0221,2025-05-22,"Mujhe thoda time chahiye, main weekend tak batata hoon.",0.0
+C0221,2025-05-22,"Happy with the discussion so far, the team seems wonderful. Please share the next steps.",0.8979
+C0221,2025-05-25,"Mujhe thoda time chahiye, main weekend tak batata hoon.",0.0
+C0226,2025-05-10,"Sounds great, I'm keen to join and will share the documents today.",0.875
+C0226,2025-05-13,Could you confirm the location and the reporting manager?,0.0
+C0226,2025-05-15,"Love the details, thanks for being so transparent. Really appreciate it!",0.8921
+C0229,2025-05-26,Thank you so much for the quick turnaround. This sounds like a fantastic opportunity.,0.886
+C0229,2025-05-26,"Ok, sending my updated resume as requested.",0.0
+C0229,2025-05-26,Thank you so much for the quick turnaround. This sounds like a fantastic opportunity.,0.886
+C0229,2025-05-26,"Bahut accha laga team se milke, excited hoon aage badhne ke liye!",0.4003
+C0229,2025-05-26,"Sorry, I'm no longer comfortable with this timeline. I need to rethink.",-0.6372
+C0230,2025-05-06,"Honestly I'm frustrated with the delays, and I have other offers waiting.",-0.1027
+C0230,2025-05-07,"Sorry, I'm no longer comfortable with this timeline. I need to rethink.",-0.6372
+C0231,2025-05-28,"Mujhe thoda time chahiye, main weekend tak batata hoon.",0.0
+C0231,2025-05-28,Please share the job description and the compensation structure.,0.5423
+C0231,2025-05-28,Received your email. I will go through it and revert.,0.0
+C0231,2025-05-28,"Ok, sending my updated resume as requested.",0.0
+C0231,2025-05-28,Received your email. I will go through it and revert.,0.0
+C0233,2025-05-09,"Bilkul maza nahi aaya process mein, bahut time lag raha hai.",-0.34
+C0233,2025-05-09,"Not happy with the hike offered, I was expecting much more. This is upsetting.",-0.7478
+C0233,2025-05-09,"Awesome, thank you! I'm confident this is a good fit and I'm very interested.",0.9551
+C0233,2025-05-09,Thank you so much for the quick turnaround. This sounds like a fantastic opportunity.,0.886
+C0233,2025-05-09,"Ok, sending my updated resume as requested.",0.0
+C0234,2025-05-07,Another company has made a better offer. I'm worried about the notice buyout.,0.1779
+C0234,2025-05-11,"Mujhe thoda time chahiye, main weekend tak batata hoon.",0.0
+C0234,2025-05-15,"Mujhe lagta hai ye offer kaafi kam hai, abhi doosre options bhi dekh raha hoon.",0.0
+C0234,2025-05-17,Received your email. I will go through it and revert.,0.0
+C0237,2025-04-25,Thanks for the update! I'm really excited about the Data Engineer role and happy to move ahead.,0.862
+C0237,2025-04-25,Thanks for the update! I'm really excited about the Data Engineer role and happy to move ahead.,0.862
+C0237,2025-04-25,Thanks for the update! I'm really excited about the Data Engineer role and happy to move ahead.,0.862
+C0237,2025-04-25,"Love the details, thanks for being so transparent. Really appreciate it!",0.8921
+C0237,2025-04-26,Thanks for the update! I'm really excited about the Data Engineer role and happy to move ahead.,0.862
+C0237,2025-04-26,"Great, that works for me. Looking forward to the next round!",0.6588
+C0239,2025-05-03,Received your email. I will go through it and revert.,0.0
+C0239,2025-05-03,"Ok, sending my updated resume as requested.",0.0
+C0245,2025-03-27,"Bilkul maza nahi aaya process mein, bahut time lag raha hai.",-0.34
+C0245,2025-03-27,Thank you so much for the quick turnaround. This sounds like a fantastic opportunity.,0.886
+C0245,2025-03-27,Received your email. I will go through it and revert.,0.0
+C0245,2025-03-28,"Sounds great, I'm keen to join and will share the documents today.",0.875
+C0245,2025-04-03,"Bilkul maza nahi aaya process mein, bahut time lag raha hai.",-0.34
+C0250,2025-02-10,Thank you so much for the quick turnaround. This sounds like a fantastic opportunity.,0.886
+C0250,2025-02-13,"Honestly I'm frustrated with the delays, and I have other offers waiting.",-0.1027
+C0251,2025-05-06,"Sorry, I'm no longer comfortable with this timeline. I need to rethink.",-0.6372
+C0251,2025-05-12,"Sorry, I'm no longer comfortable with this timeline. I need to rethink.",-0.6372
+C0251,2025-05-13,"Awesome, thank you! I'm confident this is a good fit and I'm very interested.",0.9551
+C0251,2025-05-14,"Love the details, thanks for being so transparent. Really appreciate it!",0.8921
+C0253,2025-04-24,Noted. I'll get back to you by end of week.,0.0
+C0253,2025-04-27,"Love the details, thanks for being so transparent. Really appreciate it!",0.8921
+C0253,2025-05-05,"Mujhe lagta hai ye offer kaafi kam hai, abhi doosre options bhi dekh raha hoon.",0.0
+C0253,2025-05-07,Thank you so much for the quick turnaround. This sounds like a fantastic opportunity.,0.886
+C0253,2025-05-07,I am available on Monday or Tuesday after 4 pm.,0.0
+C0257,2025-05-03,Noted. I'll get back to you by end of week.,0.0
+C0257,2025-05-03,"Mujhe lagta hai ye offer kaafi kam hai, abhi doosre options bhi dekh raha hoon.",0.0
+C0257,2025-05-03,The process has been too slow and I'm losing interest.,0.1027
+C0257,2025-05-03,"I'm not sure this is the right fit anymore, the compensation is disappointing.",-0.3944
+C0257,2025-05-03,"Ok, sending my updated resume as requested.",0.0
+C0257,2025-05-03,Thank you so much for the quick turnaround. This sounds like a fantastic opportunity.,0.886
+C0258,2025-05-23,"Honestly I'm frustrated with the delays, and I have other offers waiting.",-0.1027
+C0258,2025-05-23,"Happy with the discussion so far, the team seems wonderful. Please share the next steps.",0.8979
+C0258,2025-05-24,"Sounds great, I'm keen to join and will share the documents today.",0.875
+C0258,2025-05-24,"Happy with the discussion so far, the team seems wonderful. Please share the next steps.",0.8979
+C0258,2025-05-28,"Love the details, thanks for being so transparent. Really appreciate it!",0.8921
+C0260,2025-06-01,Received your email. I will go through it and revert.,0.0
+C0260,2025-06-01,Thank you so much for the quick turnaround. This sounds like a fantastic opportunity.,0.886
+C0260,2025-06-01,"Happy with the discussion so far, the team seems wonderful. Please share the next steps.",0.8979
+C0260,2025-06-01,Thank you so much for the quick turnaround. This sounds like a fantastic opportunity.,0.886
+C0261,2025-04-30,"Awesome, thank you! I'm confident this is a good fit and I'm very interested.",0.9551
+C0261,2025-04-30,Thank you so much for the quick turnaround. This sounds like a fantastic opportunity.,0.886
+C0261,2025-04-30,"Awesome, thank you! I'm confident this is a good fit and I'm very interested.",0.9551
+C0261,2025-04-30,The process has been too slow and I'm losing interest.,0.1027
+C0261,2025-04-30,"Ok, sending my updated resume as requested.",0.0
+C0262,2025-05-16,"Great, that works for me. Looking forward to the next round!",0.6588
+C0262,2025-05-17,"Awesome, thank you! I'm confident this is a good fit and I'm very interested.",0.9551
+C0262,2025-05-19,Thanks for the update! I'm really excited about the Product Manager role and happy to move ahead.,0.862
+C0262,2025-05-23,"Mujhe thoda time chahiye, main weekend tak batata hoon.",0.0
+C0266,2025-05-06,"Love the details, thanks for being so transparent. Really appreciate it!",0.8921
+C0266,2025-05-06,"Bahut accha laga team se milke, excited hoon aage badhne ke liye!",0.4003
+C0266,2025-05-06,Thanks for the update! I'm really excited about the Product Manager role and happy to move ahead.,0.862
+C0266,2025-05-07,Noted. I'll get back to you by end of week.,0.0
+C0266,2025-05-07,"Honestly I'm frustrated with the delays, and I have other offers waiting.",-0.1027
+C0267,2025-05-29,"Great, that works for me. Looking forward to the next round!",0.6588
+C0267,2025-05-29,"Awesome, thank you! I'm confident this is a good fit and I'm very interested.",0.9551
+C0267,2025-05-30,Thank you so much for the quick turnaround. This sounds like a fantastic opportunity.,0.886
+C0269,2025-05-30,Noted. I'll get back to you by end of week.,0.0
+C0269,2025-05-30,Could you confirm the location and the reporting manager?,0.0
+C0269,2025-06-01,"Mujhe thoda time chahiye, main weekend tak batata hoon.",0.0
+C0270,2025-05-30,"Honestly I'm frustrated with the delays, and I have other offers waiting.",-0.1027
+C0270,2025-05-30,Thank you so much for the quick turnaround. This sounds like a fantastic opportunity.,0.886
+C0270,2025-05-31,"Happy with the discussion so far, the team seems wonderful. Please share the next steps.",0.8979
+C0270,2025-06-01,"Happy with the discussion so far, the team seems wonderful. Please share the next steps.",0.8979
+C0271,2025-05-20,"Love the details, thanks for being so transparent. Really appreciate it!",0.8921
+C0271,2025-05-20,"Ok, sending my updated resume as requested.",0.0
+C0271,2025-05-20,"Bahut accha laga team se milke, excited hoon aage badhne ke liye!",0.4003
+C0271,2025-05-20,"Awesome, thank you! I'm confident this is a good fit and I'm very interested.",0.9551
+C0271,2025-05-20,"Honestly I'm frustrated with the delays, and I have other offers waiting.",-0.1027
+C0272,2025-04-19,Please share the job description and the compensation structure.,0.5423
+C0272,2025-04-26,"Happy with the discussion so far, the team seems wonderful. Please share the next steps.",0.8979
+C0272,2025-04-28,"Awesome, thank you! I'm confident this is a good fit and I'm very interested.",0.9551
+C0272,2025-04-28,"Sorry, I'm no longer comfortable with this timeline. I need to rethink.",-0.6372
+C0275,2025-04-20,"Happy with the discussion so far, the team seems wonderful. Please share the next steps.",0.8979
+C0275,2025-04-20,Could you confirm the location and the reporting manager?,0.0
+C0275,2025-04-20,"I'm not sure this is the right fit anymore, the compensation is disappointing.",-0.3944
+C0280,2025-02-21,"Sounds great, I'm keen to join and will share the documents today.",0.875
+C0280,2025-02-21,Received your email. I will go through it and revert.,0.0
+C0280,2025-02-22,Could you confirm the location and the reporting manager?,0.0
+C0280,2025-02-22,Thanks for the update! I'm really excited about the Product Manager role and happy to move ahead.,0.862
+C0280,2025-02-22,"Sounds great, I'm keen to join and will share the documents today.",0.875
+C0280,2025-02-22,"Bahut accha laga team se milke, excited hoon aage badhne ke liye!",0.4003
+C0283,2025-05-07,"Ok, sending my updated resume as requested.",0.0
+C0283,2025-05-12,Could you confirm the location and the reporting manager?,0.0
+C0283,2025-05-17,"Not happy with the hike offered, I was expecting much more. This is upsetting.",-0.7478
+C0283,2025-05-20,"Happy with the discussion so far, the team seems wonderful. Please share the next steps.",0.8979
+C0283,2025-05-22,"Ok, sending my updated resume as requested.",0.0
+C0283,2025-05-25,"Honestly I'm frustrated with the delays, and I have other offers waiting.",-0.1027
+C0286,2025-06-02,I am available on Monday or Tuesday after 4 pm.,0.0
+C0286,2025-06-02,"Happy with the discussion so far, the team seems wonderful. Please share the next steps.",0.8979
+C0286,2025-06-02,"Honestly I'm frustrated with the delays, and I have other offers waiting.",-0.1027
+C0287,2025-05-23,Can we reschedule the call to Thursday afternoon?,0.0
+C0287,2025-05-26,Noted. I'll get back to you by end of week.,0.0
+C0288,2025-05-18,Please share the job description and the compensation structure.,0.5423
+C0288,2025-05-18,Received your email. I will go through it and revert.,0.0
+C0289,2025-05-05,Can we reschedule the call to Thursday afternoon?,0.0
+C0289,2025-05-09,"Love the details, thanks for being so transparent. Really appreciate it!",0.8921
+C0289,2025-05-09,"Mujhe thoda time chahiye, main weekend tak batata hoon.",0.0
+C0290,2025-03-24,"Happy with the discussion so far, the team seems wonderful. Please share the next steps.",0.8979
+C0290,2025-03-24,Received your email. I will go through it and revert.,0.0
+C0290,2025-03-24,"Honestly I'm frustrated with the delays, and I have other offers waiting.",-0.1027
+C0294,2025-04-26,"Bahut accha laga team se milke, excited hoon aage badhne ke liye!",0.4003
+C0294,2025-04-28,"Sounds great, I'm keen to join and will share the documents today.",0.875
+C0294,2025-05-01,"Not happy with the hike offered, I was expecting much more. This is upsetting.",-0.7478
+C0294,2025-05-01,"Bahut accha laga team se milke, excited hoon aage badhne ke liye!",0.4003
+C0294,2025-05-02,"Bilkul maza nahi aaya process mein, bahut time lag raha hai.",-0.34
+C0294,2025-05-02,Another company has made a better offer. I'm worried about the notice buyout.,0.1779
+C0296,2025-04-13,Can we reschedule the call to Thursday afternoon?,0.0
+C0296,2025-04-21,The process has been too slow and I'm losing interest.,0.1027
+C0299,2025-03-25,"Sounds great, I'm keen to join and will share the documents today.",0.875
+C0299,2025-03-27,Can we reschedule the call to Thursday afternoon?,0.0
+C0299,2025-04-02,"Bahut accha laga team se milke, excited hoon aage badhne ke liye!",0.4003
+C0299,2025-04-02,Can we reschedule the call to Thursday afternoon?,0.0
+C0301,2025-05-15,"Happy with the discussion so far, the team seems wonderful. Please share the next steps.",0.8979
+C0301,2025-05-28,Received your email. I will go through it and revert.,0.0
+C0304,2025-04-14,I am available on Monday or Tuesday after 4 pm.,0.0
+C0304,2025-05-03,Thank you so much for the quick turnaround. This sounds like a fantastic opportunity.,0.886
+C0304,2025-05-08,Could you confirm the location and the reporting manager?,0.0
+C0305,2025-06-01,"Love the details, thanks for being so transparent. Really appreciate it!",0.8921
+C0305,2025-06-01,Can we reschedule the call to Thursday afternoon?,0.0
+C0306,2025-05-24,"Bahut accha laga team se milke, excited hoon aage badhne ke liye!",0.4003
+C0306,2025-05-27,"Bahut accha laga team se milke, excited hoon aage badhne ke liye!",0.4003
+C0306,2025-05-28,Thanks for the update! I'm really excited about the UX Designer role and happy to move ahead.,0.862
+C0306,2025-05-28,Thanks for the update! I'm really excited about the UX Designer role and happy to move ahead.,0.862
+C0306,2025-05-29,"Happy with the discussion so far, the team seems wonderful. Please share the next steps.",0.8979
+C0311,2025-03-29,"Sorry, I'm no longer comfortable with this timeline. I need to rethink.",-0.6372
+C0311,2025-03-29,Another company has made a better offer. I'm worried about the notice buyout.,0.1779
+C0311,2025-03-29,"Happy with the discussion so far, the team seems wonderful. Please share the next steps.",0.8979
+C0313,2025-05-29,"Sounds great, I'm keen to join and will share the documents today.",0.875
+C0313,2025-05-29,"Ok, sending my updated resume as requested.",0.0
+C0314,2025-05-27,"Bahut accha laga team se milke, excited hoon aage badhne ke liye!",0.4003
+C0314,2025-05-27,"Not happy with the hike offered, I was expecting much more. This is upsetting.",-0.7478
+C0314,2025-05-27,"Sorry, I'm no longer comfortable with this timeline. I need to rethink.",-0.6372
+C0314,2025-05-27,"Not happy with the hike offered, I was expecting much more. This is upsetting.",-0.7478
+C0314,2025-05-27,"Mujhe lagta hai ye offer kaafi kam hai, abhi doosre options bhi dekh raha hoon.",0.0
+C0315,2025-03-23,"Bilkul maza nahi aaya process mein, bahut time lag raha hai.",-0.34
+C0315,2025-03-27,"Happy with the discussion so far, the team seems wonderful. Please share the next steps.",0.8979
+C0317,2025-05-28,"Not happy with the hike offered, I was expecting much more. This is upsetting.",-0.7478
+C0317,2025-05-28,"Love the details, thanks for being so transparent. Really appreciate it!",0.8921
+C0318,2025-05-30,"Love the details, thanks for being so transparent. Really appreciate it!",0.8921
+C0318,2025-05-30,Thank you so much for the quick turnaround. This sounds like a fantastic opportunity.,0.886
+C0320,2025-04-09,"Bahut accha laga team se milke, excited hoon aage badhne ke liye!",0.4003
+C0320,2025-04-09,"Mujhe lagta hai ye offer kaafi kam hai, abhi doosre options bhi dekh raha hoon.",0.0
+C0320,2025-04-10,Can we reschedule the call to Thursday afternoon?,0.0
+C0321,2025-05-09,Thank you so much for the quick turnaround. This sounds like a fantastic opportunity.,0.886
+C0321,2025-05-09,"Sounds great, I'm keen to join and will share the documents today.",0.875
+C0321,2025-05-11,Another company has made a better offer. I'm worried about the notice buyout.,0.1779
+C0321,2025-05-11,Another company has made a better offer. I'm worried about the notice buyout.,0.1779
+C0321,2025-05-13,Received your email. I will go through it and revert.,0.0
+C0323,2025-05-31,Please share the job description and the compensation structure.,0.5423
+C0323,2025-05-31,Please share the job description and the compensation structure.,0.5423
+C0325,2025-05-21,"Great, that works for me. Looking forward to the next round!",0.6588
+C0325,2025-05-25,Could you confirm the location and the reporting manager?,0.0
+C0328,2025-02-27,"Love the details, thanks for being so transparent. Really appreciate it!",0.8921
+C0328,2025-02-27,"Ok, sending my updated resume as requested.",0.0
+C0328,2025-02-27,"Great, that works for me. Looking forward to the next round!",0.6588
+C0328,2025-02-27,"Ok, sending my updated resume as requested.",0.0
+C0328,2025-02-27,Thank you so much for the quick turnaround. This sounds like a fantastic opportunity.,0.886
+C0329,2025-06-01,Received your email. I will go through it and revert.,0.0
+C0329,2025-06-01,"Mujhe thoda time chahiye, main weekend tak batata hoon.",0.0
+C0329,2025-06-01,"Ok, sending my updated resume as requested.",0.0
+C0329,2025-06-01,Thank you so much for the quick turnaround. This sounds like a fantastic opportunity.,0.886
+C0329,2025-06-01,Another company has made a better offer. I'm worried about the notice buyout.,0.1779
+C0330,2025-05-25,"Sounds great, I'm keen to join and will share the documents today.",0.875
+C0330,2025-05-30,"Ok, sending my updated resume as requested.",0.0
+C0333,2025-04-12,Received your email. I will go through it and revert.,0.0
+C0333,2025-04-19,Another company has made a better offer. I'm worried about the notice buyout.,0.1779
+C0333,2025-04-25,Thanks for the update! I'm really excited about the UX Designer role and happy to move ahead.,0.862
+C0333,2025-04-28,"Sorry, I'm no longer comfortable with this timeline. I need to rethink.",-0.6372
+C0333,2025-05-08,"Happy with the discussion so far, the team seems wonderful. Please share the next steps.",0.8979
+C0334,2025-05-29,"Bahut accha laga team se milke, excited hoon aage badhne ke liye!",0.4003
+C0334,2025-05-29,"Awesome, thank you! I'm confident this is a good fit and I'm very interested.",0.9551
+C0334,2025-05-29,Another company has made a better offer. I'm worried about the notice buyout.,0.1779
+C0335,2025-05-22,Another company has made a better offer. I'm worried about the notice buyout.,0.1779
+C0335,2025-05-24,Could you confirm the location and the reporting manager?,0.0
+C0336,2025-03-27,"Ok, sending my updated resume as requested.",0.0
+C0336,2025-03-27,Thanks for the update! I'm really excited about the UX Designer role and happy to move ahead.,0.862
+C0336,2025-03-27,"Awesome, thank you! I'm confident this is a good fit and I'm very interested.",0.9551
+C0336,2025-03-27,"Love the details, thanks for being so transparent. Really appreciate it!",0.8921
+C0336,2025-03-27,Could you confirm the location and the reporting manager?,0.0
+C0337,2025-06-01,I am available on Monday or Tuesday after 4 pm.,0.0
+C0337,2025-06-01,Thanks for the update! I'm really excited about the UX Designer role and happy to move ahead.,0.862
+C0338,2025-05-06,"Bahut accha laga team se milke, excited hoon aage badhne ke liye!",0.4003
+C0338,2025-05-09,"Happy with the discussion so far, the team seems wonderful. Please share the next steps.",0.8979
+C0338,2025-05-23,Thanks for the update! I'm really excited about the UX Designer role and happy to move ahead.,0.862
+C0338,2025-05-27,"Bahut accha laga team se milke, excited hoon aage badhne ke liye!",0.4003
+C0338,2025-05-27,"Great, that works for me. Looking forward to the next round!",0.6588
+C0340,2025-04-01,Another company has made a better offer. I'm worried about the notice buyout.,0.1779
+C0340,2025-04-02,"Sounds great, I'm keen to join and will share the documents today.",0.875
+C0341,2025-04-21,"Ok, sending my updated resume as requested.",0.0
+C0341,2025-04-21,"Love the details, thanks for being so transparent. Really appreciate it!",0.8921
+C0341,2025-04-21,"Honestly I'm frustrated with the delays, and I have other offers waiting.",-0.1027
+C0341,2025-04-21,"Sorry, I'm no longer comfortable with this timeline. I need to rethink.",-0.6372
+C0341,2025-04-21,The process has been too slow and I'm losing interest.,0.1027
+C0342,2025-06-02,Thank you so much for the quick turnaround. This sounds like a fantastic opportunity.,0.886
+C0342,2025-06-02,The process has been too slow and I'm losing interest.,0.1027
+C0342,2025-06-02,"Bahut accha laga team se milke, excited hoon aage badhne ke liye!",0.4003
+C0342,2025-06-02,Thanks for the update! I'm really excited about the UX Designer role and happy to move ahead.,0.862
+C0342,2025-06-02,"Sounds great, I'm keen to join and will share the documents today.",0.875
+C0342,2025-06-02,Thanks for the update! I'm really excited about the UX Designer role and happy to move ahead.,0.862
+C0343,2025-05-22,Thank you so much for the quick turnaround. This sounds like a fantastic opportunity.,0.886
+C0343,2025-05-22,"I'm not sure this is the right fit anymore, the compensation is disappointing.",-0.3944
+C0345,2025-05-19,"Mujhe lagta hai ye offer kaafi kam hai, abhi doosre options bhi dekh raha hoon.",0.0
+C0345,2025-05-22,Could you confirm the location and the reporting manager?,0.0
+C0346,2025-03-24,Please share the job description and the compensation structure.,0.5423
+C0346,2025-03-25,Can we reschedule the call to Thursday afternoon?,0.0
+C0346,2025-03-26,Thanks for the update! I'm really excited about the DevOps Engineer role and happy to move ahead.,0.862
+C0346,2025-03-26,"Awesome, thank you! I'm confident this is a good fit and I'm very interested.",0.9551
+C0349,2025-05-07,"Sounds great, I'm keen to join and will share the documents today.",0.875
+C0349,2025-05-07,"Mujhe thoda time chahiye, main weekend tak batata hoon.",0.0
+C0349,2025-05-07,"Bilkul maza nahi aaya process mein, bahut time lag raha hai.",-0.34
+C0349,2025-05-07,Thank you so much for the quick turnaround. This sounds like a fantastic opportunity.,0.886
+C0349,2025-05-07,"Bilkul maza nahi aaya process mein, bahut time lag raha hai.",-0.34
+C0349,2025-05-07,I am available on Monday or Tuesday after 4 pm.,0.0
+C0351,2025-05-19,Received your email. I will go through it and revert.,0.0
+C0351,2025-05-19,Noted. I'll get back to you by end of week.,0.0
+C0351,2025-05-19,"Great, that works for me. Looking forward to the next round!",0.6588
+C0351,2025-05-19,The process has been too slow and I'm losing interest.,0.1027
+C0353,2025-05-10,"Sorry, I'm no longer comfortable with this timeline. I need to rethink.",-0.6372
+C0353,2025-05-13,"Sorry, I'm no longer comfortable with this timeline. I need to rethink.",-0.6372
+C0353,2025-05-17,Received your email. I will go through it and revert.,0.0
+C0353,2025-05-18,"Great, that works for me. Looking forward to the next round!",0.6588
+C0353,2025-05-24,"Great, that works for me. Looking forward to the next round!",0.6588
+C0353,2025-05-25,"Love the details, thanks for being so transparent. Really appreciate it!",0.8921
+C0355,2025-04-29,"Great, that works for me. Looking forward to the next round!",0.6588
+C0355,2025-05-05,The process has been too slow and I'm losing interest.,0.1027
+C0355,2025-05-05,"Happy with the discussion so far, the team seems wonderful. Please share the next steps.",0.8979
+C0355,2025-05-07,"Ok, sending my updated resume as requested.",0.0
+C0355,2025-05-08,"Sounds great, I'm keen to join and will share the documents today.",0.875
+C0357,2025-05-28,"Awesome, thank you! I'm confident this is a good fit and I'm very interested.",0.9551
+C0357,2025-05-28,"Great, that works for me. Looking forward to the next round!",0.6588
+C0357,2025-05-28,"Great, that works for me. Looking forward to the next round!",0.6588
+C0360,2025-05-08,Received your email. I will go through it and revert.,0.0
+C0360,2025-05-08,"Not happy with the hike offered, I was expecting much more. This is upsetting.",-0.7478
+C0360,2025-05-08,"Mujhe thoda time chahiye, main weekend tak batata hoon.",0.0
+C0360,2025-05-08,"Ok, sending my updated resume as requested.",0.0
+C0360,2025-05-08,Could you confirm the location and the reporting manager?,0.0
+C0360,2025-05-08,I am available on Monday or Tuesday after 4 pm.,0.0
+C0362,2025-05-28,"Awesome, thank you! I'm confident this is a good fit and I'm very interested.",0.9551
+C0362,2025-05-28,Another company has made a better offer. I'm worried about the notice buyout.,0.1779
+C0366,2025-05-25,Received your email. I will go through it and revert.,0.0
+C0366,2025-05-30,"Honestly I'm frustrated with the delays, and I have other offers waiting.",-0.1027
+C0366,2025-05-31,Noted. I'll get back to you by end of week.,0.0
+C0366,2025-06-02,I am available on Monday or Tuesday after 4 pm.,0.0
+C0371,2025-04-22,Thanks for the update! I'm really excited about the DevOps Engineer role and happy to move ahead.,0.862
+C0371,2025-04-22,Noted. I'll get back to you by end of week.,0.0
+C0371,2025-04-22,"Mujhe thoda time chahiye, main weekend tak batata hoon.",0.0
+C0371,2025-04-22,The process has been too slow and I'm losing interest.,0.1027
+C0372,2025-05-09,"Mujhe thoda time chahiye, main weekend tak batata hoon.",0.0
+C0372,2025-05-09,Noted. I'll get back to you by end of week.,0.0
+C0372,2025-05-09,I am available on Monday or Tuesday after 4 pm.,0.0
+C0372,2025-05-09,"Happy with the discussion so far, the team seems wonderful. Please share the next steps.",0.8979
+C0372,2025-05-10,"Mujhe lagta hai ye offer kaafi kam hai, abhi doosre options bhi dekh raha hoon.",0.0
+C0372,2025-05-10,Please share the job description and the compensation structure.,0.5423
+C0373,2025-05-31,"Mujhe thoda time chahiye, main weekend tak batata hoon.",0.0
+C0373,2025-05-31,Can we reschedule the call to Thursday afternoon?,0.0
+C0373,2025-05-31,Could you confirm the location and the reporting manager?,0.0
+C0373,2025-05-31,Received your email. I will go through it and revert.,0.0
+C0373,2025-05-31,"Mujhe lagta hai ye offer kaafi kam hai, abhi doosre options bhi dekh raha hoon.",0.0
+C0373,2025-05-31,Please share the job description and the compensation structure.,0.5423
+C0375,2025-05-05,I am available on Monday or Tuesday after 4 pm.,0.0
+C0375,2025-05-06,"Bilkul maza nahi aaya process mein, bahut time lag raha hai.",-0.34
+C0375,2025-05-06,Please share the job description and the compensation structure.,0.5423
+C0375,2025-05-06,"Great, that works for me. Looking forward to the next round!",0.6588
+C0375,2025-05-07,"Sounds great, I'm keen to join and will share the documents today.",0.875
+C0375,2025-05-07,"I'm not sure this is the right fit anymore, the compensation is disappointing.",-0.3944
+C0377,2025-05-28,"Bahut accha laga team se milke, excited hoon aage badhne ke liye!",0.4003
+C0377,2025-05-28,"Awesome, thank you! I'm confident this is a good fit and I'm very interested.",0.9551
+C0377,2025-05-28,"Great, that works for me. Looking forward to the next round!",0.6588
+C0377,2025-05-28,"Happy with the discussion so far, the team seems wonderful. Please share the next steps.",0.8979
+C0377,2025-05-28,"Sounds great, I'm keen to join and will share the documents today.",0.875
+C0377,2025-05-28,Noted. I'll get back to you by end of week.,0.0
+C0381,2025-05-30,"Mujhe lagta hai ye offer kaafi kam hai, abhi doosre options bhi dekh raha hoon.",0.0
+C0381,2025-05-30,Received your email. I will go through it and revert.,0.0
+C0381,2025-05-30,Can we reschedule the call to Thursday afternoon?,0.0
+C0381,2025-05-30,"Mujhe thoda time chahiye, main weekend tak batata hoon.",0.0
+C0381,2025-05-31,"Happy with the discussion so far, the team seems wonderful. Please share the next steps.",0.8979
+C0381,2025-05-31,"Mujhe thoda time chahiye, main weekend tak batata hoon.",0.0
+C0383,2025-05-01,Another company has made a better offer. I'm worried about the notice buyout.,0.1779
+C0383,2025-05-01,Received your email. I will go through it and revert.,0.0
+C0385,2025-05-21,"Ok, sending my updated resume as requested.",0.0
+C0385,2025-05-22,Received your email. I will go through it and revert.,0.0
+C0387,2025-05-05,"Sorry, I'm no longer comfortable with this timeline. I need to rethink.",-0.6372
+C0387,2025-05-06,Could you confirm the location and the reporting manager?,0.0
+C0390,2025-05-20,Can we reschedule the call to Thursday afternoon?,0.0
+C0390,2025-05-20,Noted. I'll get back to you by end of week.,0.0
+C0390,2025-05-23,Could you confirm the location and the reporting manager?,0.0
+C0390,2025-05-23,Could you confirm the location and the reporting manager?,0.0
+C0390,2025-05-23,"Mujhe thoda time chahiye, main weekend tak batata hoon.",0.0
+C0390,2025-05-26,Can we reschedule the call to Thursday afternoon?,0.0
+C0393,2025-04-25,"Love the details, thanks for being so transparent. Really appreciate it!",0.8921
+C0393,2025-04-25,Could you confirm the location and the reporting manager?,0.0
+C0393,2025-04-25,Noted. I'll get back to you by end of week.,0.0
+C0394,2025-05-23,I am available on Monday or Tuesday after 4 pm.,0.0
+C0394,2025-05-25,"Great, that works for me. Looking forward to the next round!",0.6588
+C0394,2025-05-27,"Sounds great, I'm keen to join and will share the documents today.",0.875
+C0394,2025-05-31,Another company has made a better offer. I'm worried about the notice buyout.,0.1779
+C0395,2025-05-26,Please share the job description and the compensation structure.,0.5423
+C0395,2025-05-26,"Sounds great, I'm keen to join and will share the documents today.",0.875
+C0398,2025-05-15,Thanks for the update! I'm really excited about the Sales Manager role and happy to move ahead.,0.862
+C0398,2025-05-15,The process has been too slow and I'm losing interest.,0.1027
+C0398,2025-05-15,"Not happy with the hike offered, I was expecting much more. This is upsetting.",-0.7478
+C0398,2025-05-15,Another company has made a better offer. I'm worried about the notice buyout.,0.1779
+C0399,2025-03-16,"Love the details, thanks for being so transparent. Really appreciate it!",0.8921
+C0399,2025-03-22,"Bilkul maza nahi aaya process mein, bahut time lag raha hai.",-0.34
+C0399,2025-03-25,"Sorry, I'm no longer comfortable with this timeline. I need to rethink.",-0.6372
+C0400,2025-05-27,Noted. I'll get back to you by end of week.,0.0
+C0400,2025-05-28,I am available on Monday or Tuesday after 4 pm.,0.0
+C0401,2025-06-02,"Sounds great, I'm keen to join and will share the documents today.",0.875
+C0401,2025-06-02,"I'm not sure this is the right fit anymore, the compensation is disappointing.",-0.3944
+C0401,2025-06-02,Thanks for the update! I'm really excited about the Sales Manager role and happy to move ahead.,0.862
+C0402,2025-05-26,"Sorry, I'm no longer comfortable with this timeline. I need to rethink.",-0.6372
+C0402,2025-05-27,"Love the details, thanks for being so transparent. Really appreciate it!",0.8921
+C0402,2025-05-27,"Not happy with the hike offered, I was expecting much more. This is upsetting.",-0.7478
+C0402,2025-05-27,I am available on Monday or Tuesday after 4 pm.,0.0
+C0402,2025-05-27,"Awesome, thank you! I'm confident this is a good fit and I'm very interested.",0.9551
+C0402,2025-05-27,"Mujhe thoda time chahiye, main weekend tak batata hoon.",0.0
+C0405,2025-05-31,Please share the job description and the compensation structure.,0.5423
+C0405,2025-05-31,Can we reschedule the call to Thursday afternoon?,0.0
+C0405,2025-05-31,"Great, that works for me. Looking forward to the next round!",0.6588
+C0408,2025-02-26,"Bahut accha laga team se milke, excited hoon aage badhne ke liye!",0.4003
+C0408,2025-03-09,"Mujhe thoda time chahiye, main weekend tak batata hoon.",0.0
+C0411,2025-04-08,Could you confirm the location and the reporting manager?,0.0
+C0411,2025-04-11,"Love the details, thanks for being so transparent. Really appreciate it!",0.8921
+C0412,2025-05-12,"Great, that works for me. Looking forward to the next round!",0.6588
+C0412,2025-05-16,"Mujhe lagta hai ye offer kaafi kam hai, abhi doosre options bhi dekh raha hoon.",0.0
+C0414,2025-05-12,"Sorry, I'm no longer comfortable with this timeline. I need to rethink.",-0.6372
+C0414,2025-05-14,"Bilkul maza nahi aaya process mein, bahut time lag raha hai.",-0.34
+C0414,2025-05-14,Thanks for the update! I'm really excited about the Sales Manager role and happy to move ahead.,0.862
+C0414,2025-05-14,"Honestly I'm frustrated with the delays, and I have other offers waiting.",-0.1027
+C0414,2025-05-14,"Awesome, thank you! I'm confident this is a good fit and I'm very interested.",0.9551
+C0416,2025-04-07,"Sorry, I'm no longer comfortable with this timeline. I need to rethink.",-0.6372
+C0416,2025-04-08,I am available on Monday or Tuesday after 4 pm.,0.0
+C0416,2025-04-11,"Love the details, thanks for being so transparent. Really appreciate it!",0.8921
+C0416,2025-04-13,Could you confirm the location and the reporting manager?,0.0
+C0417,2025-05-14,"Ok, sending my updated resume as requested.",0.0
+C0417,2025-05-14,"I'm not sure this is the right fit anymore, the compensation is disappointing.",-0.3944
+C0417,2025-05-14,"Happy with the discussion so far, the team seems wonderful. Please share the next steps.",0.8979
+C0417,2025-05-16,"Honestly I'm frustrated with the delays, and I have other offers waiting.",-0.1027
+C0417,2025-05-17,Noted. I'll get back to you by end of week.,0.0
+C0418,2025-05-20,"Sounds great, I'm keen to join and will share the documents today.",0.875
+C0418,2025-05-21,"Love the details, thanks for being so transparent. Really appreciate it!",0.8921
+C0420,2025-04-03,"Bahut accha laga team se milke, excited hoon aage badhne ke liye!",0.4003
+C0420,2025-04-05,"Love the details, thanks for being so transparent. Really appreciate it!",0.8921
+C0420,2025-04-06,Thank you so much for the quick turnaround. This sounds like a fantastic opportunity.,0.886
+C0420,2025-04-07,Thanks for the update! I'm really excited about the Sales Manager role and happy to move ahead.,0.862
+C0420,2025-04-07,"Sounds great, I'm keen to join and will share the documents today.",0.875
+C0426,2025-05-15,Thank you so much for the quick turnaround. This sounds like a fantastic opportunity.,0.886
+C0426,2025-05-17,"Not happy with the hike offered, I was expecting much more. This is upsetting.",-0.7478
+C0428,2025-05-30,"Bahut accha laga team se milke, excited hoon aage badhne ke liye!",0.4003
+C0428,2025-05-30,Thanks for the update! I'm really excited about the Sales Manager role and happy to move ahead.,0.862
+C0428,2025-05-30,"Happy with the discussion so far, the team seems wonderful. Please share the next steps.",0.8979
+C0428,2025-05-30,The process has been too slow and I'm losing interest.,0.1027
+C0428,2025-05-30,"I'm not sure this is the right fit anymore, the compensation is disappointing.",-0.3944
+C0429,2025-03-31,"Love the details, thanks for being so transparent. Really appreciate it!",0.8921
+C0429,2025-04-01,"Sorry, I'm no longer comfortable with this timeline. I need to rethink.",-0.6372
+C0430,2025-05-31,Another company has made a better offer. I'm worried about the notice buyout.,0.1779
+C0430,2025-05-31,"Happy with the discussion so far, the team seems wonderful. Please share the next steps.",0.8979
+C0430,2025-05-31,"Bilkul maza nahi aaya process mein, bahut time lag raha hai.",-0.34
+C0430,2025-05-31,"Awesome, thank you! I'm confident this is a good fit and I'm very interested.",0.9551
+C0430,2025-05-31,"Ok, sending my updated resume as requested.",0.0
+C0430,2025-05-31,Thanks for the update! I'm really excited about the Sales Manager role and happy to move ahead.,0.862
+C0436,2025-02-08,Received your email. I will go through it and revert.,0.0
+C0436,2025-02-09,Can we reschedule the call to Thursday afternoon?,0.0
+C0436,2025-02-20,"Great, that works for me. Looking forward to the next round!",0.6588
+C0437,2025-05-29,"I'm not sure this is the right fit anymore, the compensation is disappointing.",-0.3944
+C0437,2025-05-29,"Mujhe lagta hai ye offer kaafi kam hai, abhi doosre options bhi dekh raha hoon.",0.0
+C0437,2025-05-29,Thanks for the update! I'm really excited about the Sales Manager role and happy to move ahead.,0.862
+C0437,2025-05-29,Noted. I'll get back to you by end of week.,0.0
+C0438,2025-05-07,"Great, that works for me. Looking forward to the next round!",0.6588
+C0438,2025-05-08,"Love the details, thanks for being so transparent. Really appreciate it!",0.8921
+C0438,2025-05-13,"Mujhe lagta hai ye offer kaafi kam hai, abhi doosre options bhi dekh raha hoon.",0.0
+C0439,2025-05-13,Please share the job description and the compensation structure.,0.5423
+C0439,2025-05-13,I am available on Monday or Tuesday after 4 pm.,0.0
+C0441,2025-05-23,Please share the job description and the compensation structure.,0.5423
+C0441,2025-05-25,Could you confirm the location and the reporting manager?,0.0
+C0441,2025-05-27,"Sorry, I'm no longer comfortable with this timeline. I need to rethink.",-0.6372
+C0441,2025-05-29,I am available on Monday or Tuesday after 4 pm.,0.0
+C0443,2025-05-27,"Bahut accha laga team se milke, excited hoon aage badhne ke liye!",0.4003
+C0443,2025-05-27,Can we reschedule the call to Thursday afternoon?,0.0
+C0443,2025-05-29,"Honestly I'm frustrated with the delays, and I have other offers waiting.",-0.1027
+C0443,2025-05-29,"Love the details, thanks for being so transparent. Really appreciate it!",0.8921
+C0443,2025-05-29,"Bahut accha laga team se milke, excited hoon aage badhne ke liye!",0.4003
+C0443,2025-05-29,Thank you so much for the quick turnaround. This sounds like a fantastic opportunity.,0.886
+C0444,2025-05-24,"Mujhe lagta hai ye offer kaafi kam hai, abhi doosre options bhi dekh raha hoon.",0.0
+C0444,2025-05-24,"Bahut accha laga team se milke, excited hoon aage badhne ke liye!",0.4003
+C0444,2025-05-24,Received your email. I will go through it and revert.,0.0
+C0448,2025-02-24,Could you confirm the location and the reporting manager?,0.0
+C0448,2025-02-24,Received your email. I will go through it and revert.,0.0
+C0448,2025-02-25,Thank you so much for the quick turnaround. This sounds like a fantastic opportunity.,0.886
+C0448,2025-02-25,"Mujhe thoda time chahiye, main weekend tak batata hoon.",0.0
+C0448,2025-02-25,Another company has made a better offer. I'm worried about the notice buyout.,0.1779
+C0449,2025-05-18,Can we reschedule the call to Thursday afternoon?,0.0
+C0449,2025-05-18,Received your email. I will go through it and revert.,0.0
+C0449,2025-05-21,Thanks for the update! I'm really excited about the Account Executive role and happy to move ahead.,0.862
+C0449,2025-05-24,"Great, that works for me. Looking forward to the next round!",0.6588
+C0449,2025-05-27,Thanks for the update! I'm really excited about the Account Executive role and happy to move ahead.,0.862
+C0449,2025-05-30,Thanks for the update! I'm really excited about the Account Executive role and happy to move ahead.,0.862
+C0450,2025-04-23,Received your email. I will go through it and revert.,0.0
+C0450,2025-04-23,"Awesome, thank you! I'm confident this is a good fit and I'm very interested.",0.9551
+C0450,2025-04-23,Please share the job description and the compensation structure.,0.5423
+C0450,2025-04-23,"Awesome, thank you! I'm confident this is a good fit and I'm very interested.",0.9551
+C0451,2025-02-24,"Great, that works for me. Looking forward to the next round!",0.6588
+C0451,2025-02-24,Thanks for the update! I'm really excited about the Account Executive role and happy to move ahead.,0.862
+C0451,2025-02-26,Thanks for the update! I'm really excited about the Account Executive role and happy to move ahead.,0.862
+C0451,2025-02-26,"Mujhe lagta hai ye offer kaafi kam hai, abhi doosre options bhi dekh raha hoon.",0.0
+C0452,2025-05-18,"Love the details, thanks for being so transparent. Really appreciate it!",0.8921
+C0452,2025-05-21,"Awesome, thank you! I'm confident this is a good fit and I'm very interested.",0.9551
+C0452,2025-05-22,Noted. I'll get back to you by end of week.,0.0
+C0452,2025-05-29,Thanks for the update! I'm really excited about the Account Executive role and happy to move ahead.,0.862
+C0452,2025-05-29,"Bahut accha laga team se milke, excited hoon aage badhne ke liye!",0.4003
+C0452,2025-05-31,Thank you so much for the quick turnaround. This sounds like a fantastic opportunity.,0.886
+C0453,2025-03-16,"Ok, sending my updated resume as requested.",0.0
+C0453,2025-03-16,Thank you so much for the quick turnaround. This sounds like a fantastic opportunity.,0.886
+C0453,2025-03-17,"Mujhe thoda time chahiye, main weekend tak batata hoon.",0.0
+C0453,2025-03-17,"Sounds great, I'm keen to join and will share the documents today.",0.875
+C0453,2025-03-17,"Awesome, thank you! I'm confident this is a good fit and I'm very interested.",0.9551
+C0455,2025-05-17,Thanks for the update! I'm really excited about the Account Executive role and happy to move ahead.,0.862
+C0455,2025-05-17,Thank you so much for the quick turnaround. This sounds like a fantastic opportunity.,0.886
+C0455,2025-05-18,"Sounds great, I'm keen to join and will share the documents today.",0.875
+C0455,2025-05-18,"Honestly I'm frustrated with the delays, and I have other offers waiting.",-0.1027
+C0455,2025-05-20,Please share the job description and the compensation structure.,0.5423
+C0455,2025-05-21,"I'm not sure this is the right fit anymore, the compensation is disappointing.",-0.3944
+C0456,2025-05-26,"Honestly I'm frustrated with the delays, and I have other offers waiting.",-0.1027
+C0456,2025-05-26,"Bahut accha laga team se milke, excited hoon aage badhne ke liye!",0.4003
+C0456,2025-05-26,"Great, that works for me. Looking forward to the next round!",0.6588
+C0456,2025-05-26,"Honestly I'm frustrated with the delays, and I have other offers waiting.",-0.1027
+C0456,2025-05-26,Noted. I'll get back to you by end of week.,0.0
+C0456,2025-05-26,"Not happy with the hike offered, I was expecting much more. This is upsetting.",-0.7478
+C0458,2025-03-20,Please share the job description and the compensation structure.,0.5423
+C0458,2025-03-27,The process has been too slow and I'm losing interest.,0.1027
+C0461,2025-05-29,"Great, that works for me. Looking forward to the next round!",0.6588
+C0461,2025-05-29,"Awesome, thank you! I'm confident this is a good fit and I'm very interested.",0.9551
+C0461,2025-05-29,Thanks for the update! I'm really excited about the Account Executive role and happy to move ahead.,0.862
+C0461,2025-05-29,"Great, that works for me. Looking forward to the next round!",0.6588
+C0461,2025-05-29,I am available on Monday or Tuesday after 4 pm.,0.0
+C0462,2025-02-18,"Awesome, thank you! I'm confident this is a good fit and I'm very interested.",0.9551
+C0462,2025-05-17,"Love the details, thanks for being so transparent. Really appreciate it!",0.8921
+C0464,2025-03-27,I am available on Monday or Tuesday after 4 pm.,0.0
+C0464,2025-04-08,Can we reschedule the call to Thursday afternoon?,0.0
+C0467,2025-04-30,"Mujhe thoda time chahiye, main weekend tak batata hoon.",0.0
+C0467,2025-05-01,"Ok, sending my updated resume as requested.",0.0
+C0467,2025-05-03,The process has been too slow and I'm losing interest.,0.1027
+C0467,2025-05-07,Thank you so much for the quick turnaround. This sounds like a fantastic opportunity.,0.886
+C0467,2025-05-09,Thanks for the update! I'm really excited about the Account Executive role and happy to move ahead.,0.862
+C0468,2025-05-20,I am available on Monday or Tuesday after 4 pm.,0.0
+C0468,2025-05-21,Please share the job description and the compensation structure.,0.5423
+C0468,2025-05-22,"Bahut accha laga team se milke, excited hoon aage badhne ke liye!",0.4003
+C0470,2025-04-04,"Happy with the discussion so far, the team seems wonderful. Please share the next steps.",0.8979
+C0470,2025-04-04,"Sounds great, I'm keen to join and will share the documents today.",0.875
+C0470,2025-04-06,"Great, that works for me. Looking forward to the next round!",0.6588
+C0470,2025-04-08,Please share the job description and the compensation structure.,0.5423
+C0470,2025-04-11,"Great, that works for me. Looking forward to the next round!",0.6588
+C0471,2025-03-05,"Happy with the discussion so far, the team seems wonderful. Please share the next steps.",0.8979
+C0471,2025-03-07,Thank you so much for the quick turnaround. This sounds like a fantastic opportunity.,0.886
+C0471,2025-03-07,Can we reschedule the call to Thursday afternoon?,0.0
+C0476,2025-04-04,"Love the details, thanks for being so transparent. Really appreciate it!",0.8921
+C0476,2025-04-04,Can we reschedule the call to Thursday afternoon?,0.0
+C0476,2025-04-04,"Ok, sending my updated resume as requested.",0.0
+C0476,2025-04-06,"Love the details, thanks for being so transparent. Really appreciate it!",0.8921
+C0476,2025-04-10,"Happy with the discussion so far, the team seems wonderful. Please share the next steps.",0.8979
+C0477,2025-03-20,"Bahut accha laga team se milke, excited hoon aage badhne ke liye!",0.4003
+C0477,2025-04-01,"Happy with the discussion so far, the team seems wonderful. Please share the next steps.",0.8979
+C0477,2025-04-02,"Not happy with the hike offered, I was expecting much more. This is upsetting.",-0.7478
+C0479,2025-05-03,"Happy with the discussion so far, the team seems wonderful. Please share the next steps.",0.8979
+C0479,2025-05-03,"Bilkul maza nahi aaya process mein, bahut time lag raha hai.",-0.34
+C0480,2025-04-08,Can we reschedule the call to Thursday afternoon?,0.0
+C0480,2025-04-08,I am available on Monday or Tuesday after 4 pm.,0.0
+C0480,2025-04-08,Noted. I'll get back to you by end of week.,0.0
+C0480,2025-04-08,"Ok, sending my updated resume as requested.",0.0
+C0480,2025-04-09,Received your email. I will go through it and revert.,0.0
+C0480,2025-04-09,"Awesome, thank you! I'm confident this is a good fit and I'm very interested.",0.9551
+C0481,2025-06-02,"Mujhe thoda time chahiye, main weekend tak batata hoon.",0.0
+C0481,2025-06-02,Thank you so much for the quick turnaround. This sounds like a fantastic opportunity.,0.886
+C0481,2025-06-02,Thanks for the update! I'm really excited about the Account Executive role and happy to move ahead.,0.862
+C0481,2025-06-02,"Love the details, thanks for being so transparent. Really appreciate it!",0.8921
+C0481,2025-06-02,"Awesome, thank you! I'm confident this is a good fit and I'm very interested.",0.9551
+C0481,2025-06-02,"Awesome, thank you! I'm confident this is a good fit and I'm very interested.",0.9551
+C0482,2025-05-18,Please share the job description and the compensation structure.,0.5423
+C0482,2025-05-18,Could you confirm the location and the reporting manager?,0.0
+C0482,2025-05-18,"Mujhe lagta hai ye offer kaafi kam hai, abhi doosre options bhi dekh raha hoon.",0.0
+C0485,2025-05-16,Received your email. I will go through it and revert.,0.0
+C0485,2025-05-16,"Awesome, thank you! I'm confident this is a good fit and I'm very interested.",0.9551
+C0488,2025-05-03,"Happy with the discussion so far, the team seems wonderful. Please share the next steps.",0.8979
+C0488,2025-05-03,"Great, that works for me. Looking forward to the next round!",0.6588
+C0488,2025-05-05,"Sounds great, I'm keen to join and will share the documents today.",0.875
+C0488,2025-05-07,Please share the job description and the compensation structure.,0.5423
+C0488,2025-05-09,Another company has made a better offer. I'm worried about the notice buyout.,0.1779
+C0490,2025-05-25,Can we reschedule the call to Thursday afternoon?,0.0
+C0490,2025-05-26,"Ok, sending my updated resume as requested.",0.0
+C0490,2025-05-31,Could you confirm the location and the reporting manager?,0.0
+C0491,2025-05-11,"Mujhe lagta hai ye offer kaafi kam hai, abhi doosre options bhi dekh raha hoon.",0.0
+C0491,2025-05-11,I am available on Monday or Tuesday after 4 pm.,0.0
+C0491,2025-05-17,"Ok, sending my updated resume as requested.",0.0
+C0492,2025-04-22,"Bahut accha laga team se milke, excited hoon aage badhne ke liye!",0.4003
+C0492,2025-04-23,Please share the job description and the compensation structure.,0.5423
+C0494,2025-05-29,"Sorry, I'm no longer comfortable with this timeline. I need to rethink.",-0.6372
+C0494,2025-05-29,"Bilkul maza nahi aaya process mein, bahut time lag raha hai.",-0.34
+C0494,2025-05-29,"Sorry, I'm no longer comfortable with this timeline. I need to rethink.",-0.6372
+C0494,2025-05-29,Please share the job description and the compensation structure.,0.5423
+C0494,2025-05-29,Could you confirm the location and the reporting manager?,0.0
+C0494,2025-05-29,Noted. I'll get back to you by end of week.,0.0
+C0495,2025-03-22,Received your email. I will go through it and revert.,0.0
+C0495,2025-03-23,Received your email. I will go through it and revert.,0.0
+C0495,2025-03-29,"Awesome, thank you! I'm confident this is a good fit and I'm very interested.",0.9551
+C0495,2025-03-29,Noted. I'll get back to you by end of week.,0.0
+C0498,2025-06-02,"Mujhe thoda time chahiye, main weekend tak batata hoon.",0.0
+C0498,2025-06-02,Please share the job description and the compensation structure.,0.5423
+C0498,2025-06-02,Noted. I'll get back to you by end of week.,0.0
+C0498,2025-06-02,Could you confirm the location and the reporting manager?,0.0
+C0499,2025-04-24,"Happy with the discussion so far, the team seems wonderful. Please share the next steps.",0.8979
+C0499,2025-04-24,Can we reschedule the call to Thursday afternoon?,0.0
+C0499,2025-04-24,"Bilkul maza nahi aaya process mein, bahut time lag raha hai.",-0.34
+C0499,2025-04-24,Can we reschedule the call to Thursday afternoon?,0.0
+C0499,2025-04-24,"Happy with the discussion so far, the team seems wonderful. Please share the next steps.",0.8979
+C0499,2025-04-24,"I'm not sure this is the right fit anymore, the compensation is disappointing.",-0.3944
+C0500,2025-05-25,"Great, that works for me. Looking forward to the next round!",0.6588
+C0500,2025-05-25,"Ok, sending my updated resume as requested.",0.0
+C0500,2025-05-25,"Awesome, thank you! I'm confident this is a good fit and I'm very interested.",0.9551
+C0500,2025-05-25,"Sorry, I'm no longer comfortable with this timeline. I need to rethink.",-0.6372
+C0501,2025-05-14,Can we reschedule the call to Thursday afternoon?,0.0
+C0501,2025-05-14,"Love the details, thanks for being so transparent. Really appreciate it!",0.8921
+C0501,2025-05-14,"Happy with the discussion so far, the team seems wonderful. Please share the next steps.",0.8979
+C0501,2025-05-16,"Ok, sending my updated resume as requested.",0.0
+C0505,2025-05-10,"Bahut accha laga team se milke, excited hoon aage badhne ke liye!",0.4003
+C0505,2025-05-10,"Happy with the discussion so far, the team seems wonderful. Please share the next steps.",0.8979
+C0505,2025-05-10,"Honestly I'm frustrated with the delays, and I have other offers waiting.",-0.1027
+C0506,2025-04-29,Can we reschedule the call to Thursday afternoon?,0.0
+C0506,2025-05-12,Please share the job description and the compensation structure.,0.5423
+C0506,2025-05-16,"Bahut accha laga team se milke, excited hoon aage badhne ke liye!",0.4003
+C0506,2025-05-20,"Happy with the discussion so far, the team seems wonderful. Please share the next steps.",0.8979
+C0506,2025-05-24,"Bahut accha laga team se milke, excited hoon aage badhne ke liye!",0.4003
+C0506,2025-05-31,"Love the details, thanks for being so transparent. Really appreciate it!",0.8921
+C0507,2025-02-23,Received your email. I will go through it and revert.,0.0
+C0507,2025-02-23,"Bahut accha laga team se milke, excited hoon aage badhne ke liye!",0.4003
+C0507,2025-02-24,"Sounds great, I'm keen to join and will share the documents today.",0.875
+C0507,2025-02-24,"Honestly I'm frustrated with the delays, and I have other offers waiting.",-0.1027
+C0508,2025-05-31,Another company has made a better offer. I'm worried about the notice buyout.,0.1779
+C0508,2025-05-31,Thank you so much for the quick turnaround. This sounds like a fantastic opportunity.,0.886
+C0510,2025-05-05,"Honestly I'm frustrated with the delays, and I have other offers waiting.",-0.1027
+C0510,2025-05-10,Thank you so much for the quick turnaround. This sounds like a fantastic opportunity.,0.886
+C0510,2025-05-11,"Bahut accha laga team se milke, excited hoon aage badhne ke liye!",0.4003
+C0510,2025-05-13,"Mujhe lagta hai ye offer kaafi kam hai, abhi doosre options bhi dekh raha hoon.",0.0
+C0510,2025-05-17,"Not happy with the hike offered, I was expecting much more. This is upsetting.",-0.7478
+C0512,2025-04-12,"Awesome, thank you! I'm confident this is a good fit and I'm very interested.",0.9551
+C0512,2025-04-14,"Honestly I'm frustrated with the delays, and I have other offers waiting.",-0.1027
+C0513,2025-03-19,"Ok, sending my updated resume as requested.",0.0
+C0513,2025-03-20,I am available on Monday or Tuesday after 4 pm.,0.0
+C0515,2025-05-24,Another company has made a better offer. I'm worried about the notice buyout.,0.1779
+C0515,2025-05-25,"Not happy with the hike offered, I was expecting much more. This is upsetting.",-0.7478
+C0515,2025-05-25,"Sounds great, I'm keen to join and will share the documents today.",0.875
+C0515,2025-05-28,"Love the details, thanks for being so transparent. Really appreciate it!",0.8921
+C0515,2025-05-29,"Awesome, thank you! I'm confident this is a good fit and I'm very interested.",0.9551
+C0516,2025-04-06,"Bahut accha laga team se milke, excited hoon aage badhne ke liye!",0.4003
+C0516,2025-04-06,"Awesome, thank you! I'm confident this is a good fit and I'm very interested.",0.9551
+C0516,2025-04-06,"Mujhe lagta hai ye offer kaafi kam hai, abhi doosre options bhi dekh raha hoon.",0.0
+C0516,2025-04-06,Thank you so much for the quick turnaround. This sounds like a fantastic opportunity.,0.886
+C0516,2025-04-06,"Sounds great, I'm keen to join and will share the documents today.",0.875
+C0516,2025-04-06,"Sorry, I'm no longer comfortable with this timeline. I need to rethink.",-0.6372
+C0517,2025-05-30,Thank you so much for the quick turnaround. This sounds like a fantastic opportunity.,0.886
+C0517,2025-05-30,"Bahut accha laga team se milke, excited hoon aage badhne ke liye!",0.4003
+C0517,2025-05-30,"Mujhe thoda time chahiye, main weekend tak batata hoon.",0.0
+C0517,2025-05-30,"Mujhe lagta hai ye offer kaafi kam hai, abhi doosre options bhi dekh raha hoon.",0.0
+C0517,2025-05-30,"Not happy with the hike offered, I was expecting much more. This is upsetting.",-0.7478
+C0518,2025-05-10,"Love the details, thanks for being so transparent. Really appreciate it!",0.8921
+C0518,2025-05-10,"Happy with the discussion so far, the team seems wonderful. Please share the next steps.",0.8979
+C0518,2025-05-10,"Mujhe lagta hai ye offer kaafi kam hai, abhi doosre options bhi dekh raha hoon.",0.0
+C0518,2025-05-10,"Not happy with the hike offered, I was expecting much more. This is upsetting.",-0.7478
+C0518,2025-05-10,Another company has made a better offer. I'm worried about the notice buyout.,0.1779
+C0518,2025-05-11,Another company has made a better offer. I'm worried about the notice buyout.,0.1779
+C0521,2025-04-19,"Sounds great, I'm keen to join and will share the documents today.",0.875
+C0521,2025-04-22,"Ok, sending my updated resume as requested.",0.0
+C0522,2025-05-07,Can we reschedule the call to Thursday afternoon?,0.0
+C0522,2025-05-07,Can we reschedule the call to Thursday afternoon?,0.0
+C0523,2025-05-21,"I'm not sure this is the right fit anymore, the compensation is disappointing.",-0.3944
+C0523,2025-05-21,"Awesome, thank you! I'm confident this is a good fit and I'm very interested.",0.9551
+C0523,2025-05-22,"I'm not sure this is the right fit anymore, the compensation is disappointing.",-0.3944
+C0523,2025-05-26,"Sorry, I'm no longer comfortable with this timeline. I need to rethink.",-0.6372
+C0524,2025-03-06,"Bahut accha laga team se milke, excited hoon aage badhne ke liye!",0.4003
+C0524,2025-03-06,"Happy with the discussion so far, the team seems wonderful. Please share the next steps.",0.8979
+C0524,2025-03-06,"Mujhe lagta hai ye offer kaafi kam hai, abhi doosre options bhi dekh raha hoon.",0.0
+C0524,2025-03-06,"Mujhe thoda time chahiye, main weekend tak batata hoon.",0.0
+C0524,2025-03-06,"Not happy with the hike offered, I was expecting much more. This is upsetting.",-0.7478
+C0524,2025-03-06,Noted. I'll get back to you by end of week.,0.0
+C0525,2025-03-29,"Mujhe thoda time chahiye, main weekend tak batata hoon.",0.0
+C0525,2025-03-29,Received your email. I will go through it and revert.,0.0
+C0525,2025-03-29,Please share the job description and the compensation structure.,0.5423
+C0525,2025-03-29,"Great, that works for me. Looking forward to the next round!",0.6588
+C0525,2025-03-29,"Happy with the discussion so far, the team seems wonderful. Please share the next steps.",0.8979
+C0525,2025-03-29,Please share the job description and the compensation structure.,0.5423
+C0528,2025-06-02,Noted. I'll get back to you by end of week.,0.0
+C0528,2025-06-02,"Love the details, thanks for being so transparent. Really appreciate it!",0.8921
+C0528,2025-06-02,Could you confirm the location and the reporting manager?,0.0
+C0528,2025-06-02,"Bilkul maza nahi aaya process mein, bahut time lag raha hai.",-0.34
+C0528,2025-06-02,"Great, that works for me. Looking forward to the next round!",0.6588
+C0530,2025-05-24,"Bahut accha laga team se milke, excited hoon aage badhne ke liye!",0.4003
+C0530,2025-05-24,Noted. I'll get back to you by end of week.,0.0
+C0530,2025-05-24,Thank you so much for the quick turnaround. This sounds like a fantastic opportunity.,0.886
+C0530,2025-05-26,Noted. I'll get back to you by end of week.,0.0
+C0530,2025-05-27,Another company has made a better offer. I'm worried about the notice buyout.,0.1779
+C0531,2025-03-17,"Sorry, I'm no longer comfortable with this timeline. I need to rethink.",-0.6372
+C0531,2025-03-18,Thank you so much for the quick turnaround. This sounds like a fantastic opportunity.,0.886
+C0531,2025-03-20,Please share the job description and the compensation structure.,0.5423
+C0531,2025-03-20,Another company has made a better offer. I'm worried about the notice buyout.,0.1779
+C0534,2025-04-11,"Love the details, thanks for being so transparent. Really appreciate it!",0.8921
+C0534,2025-04-24,Noted. I'll get back to you by end of week.,0.0
+C0534,2025-04-28,"Mujhe lagta hai ye offer kaafi kam hai, abhi doosre options bhi dekh raha hoon.",0.0
+C0535,2025-05-19,"Sounds great, I'm keen to join and will share the documents today.",0.875
+C0535,2025-05-20,"Sounds great, I'm keen to join and will share the documents today.",0.875
+C0535,2025-05-28,"Not happy with the hike offered, I was expecting much more. This is upsetting.",-0.7478
+C0535,2025-05-31,Thank you so much for the quick turnaround. This sounds like a fantastic opportunity.,0.886
+C0535,2025-06-01,Received your email. I will go through it and revert.,0.0
+C0536,2025-06-02,Could you confirm the location and the reporting manager?,0.0
+C0536,2025-06-02,"Love the details, thanks for being so transparent. Really appreciate it!",0.8921
+C0536,2025-06-02,Received your email. I will go through it and revert.,0.0
+C0536,2025-06-02,"Sounds great, I'm keen to join and will share the documents today.",0.875
+C0536,2025-06-02,"Not happy with the hike offered, I was expecting much more. This is upsetting.",-0.7478
+C0536,2025-06-02,"Great, that works for me. Looking forward to the next round!",0.6588
+C0537,2025-05-15,Received your email. I will go through it and revert.,0.0
+C0537,2025-05-15,"Love the details, thanks for being so transparent. Really appreciate it!",0.8921
+C0538,2025-04-10,"Ok, sending my updated resume as requested.",0.0
+C0538,2025-04-10,"Not happy with the hike offered, I was expecting much more. This is upsetting.",-0.7478
+C0538,2025-04-10,"Ok, sending my updated resume as requested.",0.0
+C0538,2025-04-10,"Mujhe thoda time chahiye, main weekend tak batata hoon.",0.0
+C0540,2025-05-05,"Great, that works for me. Looking forward to the next round!",0.6588
+C0540,2025-05-07,"I'm not sure this is the right fit anymore, the compensation is disappointing.",-0.3944
+C0542,2025-05-31,"Great, that works for me. Looking forward to the next round!",0.6588
+C0542,2025-05-31,"Love the details, thanks for being so transparent. Really appreciate it!",0.8921
+C0542,2025-06-01,"Mujhe thoda time chahiye, main weekend tak batata hoon.",0.0
+C0542,2025-06-01,"Bahut accha laga team se milke, excited hoon aage badhne ke liye!",0.4003
+C0542,2025-06-01,"Sounds great, I'm keen to join and will share the documents today.",0.875
+C0543,2025-05-24,Can we reschedule the call to Thursday afternoon?,0.0
+C0543,2025-06-01,"I'm not sure this is the right fit anymore, the compensation is disappointing.",-0.3944
+C0543,2025-06-01,Can we reschedule the call to Thursday afternoon?,0.0
+C0544,2025-05-16,Please share the job description and the compensation structure.,0.5423
+C0544,2025-05-16,"Mujhe thoda time chahiye, main weekend tak batata hoon.",0.0
+C0544,2025-05-22,"Happy with the discussion so far, the team seems wonderful. Please share the next steps.",0.8979
+C0544,2025-05-25,I am available on Monday or Tuesday after 4 pm.,0.0
+C0544,2025-05-26,"Bilkul maza nahi aaya process mein, bahut time lag raha hai.",-0.34
+C0547,2025-05-26,Thanks for the update! I'm really excited about the HR Business Partner role and happy to move ahead.,0.862
+C0547,2025-05-26,"Awesome, thank you! I'm confident this is a good fit and I'm very interested.",0.9551
+C0547,2025-05-27,Another company has made a better offer. I'm worried about the notice buyout.,0.1779
+C0547,2025-05-30,"Honestly I'm frustrated with the delays, and I have other offers waiting.",-0.1027
+C0547,2025-05-31,"Mujhe lagta hai ye offer kaafi kam hai, abhi doosre options bhi dekh raha hoon.",0.0
+C0547,2025-05-31,"Not happy with the hike offered, I was expecting much more. This is upsetting.",-0.7478
+C0548,2025-05-31,"Awesome, thank you! I'm confident this is a good fit and I'm very interested.",0.9551
+C0548,2025-05-31,"Honestly I'm frustrated with the delays, and I have other offers waiting.",-0.1027
+C0548,2025-05-31,Another company has made a better offer. I'm worried about the notice buyout.,0.1779
+C0552,2025-05-16,Can we reschedule the call to Thursday afternoon?,0.0
+C0552,2025-05-16,Received your email. I will go through it and revert.,0.0
+C0552,2025-05-19,Noted. I'll get back to you by end of week.,0.0
+C0553,2025-04-07,"Ok, sending my updated resume as requested.",0.0
+C0553,2025-04-16,"Mujhe thoda time chahiye, main weekend tak batata hoon.",0.0
+C0554,2025-05-21,"Mujhe thoda time chahiye, main weekend tak batata hoon.",0.0
+C0554,2025-05-21,"I'm not sure this is the right fit anymore, the compensation is disappointing.",-0.3944
+C0554,2025-05-24,"Mujhe thoda time chahiye, main weekend tak batata hoon.",0.0
+C0554,2025-05-24,Received your email. I will go through it and revert.,0.0
+C0554,2025-05-26,"Awesome, thank you! I'm confident this is a good fit and I'm very interested.",0.9551
+C0557,2025-05-13,"Awesome, thank you! I'm confident this is a good fit and I'm very interested.",0.9551
+C0557,2025-05-15,"Bahut accha laga team se milke, excited hoon aage badhne ke liye!",0.4003
+C0557,2025-05-19,Can we reschedule the call to Thursday afternoon?,0.0
+C0557,2025-05-21,Can we reschedule the call to Thursday afternoon?,0.0
+C0559,2025-05-26,Noted. I'll get back to you by end of week.,0.0
+C0559,2025-05-30,"Ok, sending my updated resume as requested.",0.0
+C0559,2025-05-30,Thank you so much for the quick turnaround. This sounds like a fantastic opportunity.,0.886
+C0559,2025-05-31,The process has been too slow and I'm losing interest.,0.1027
+C0559,2025-05-31,"Happy with the discussion so far, the team seems wonderful. Please share the next steps.",0.8979
+C0560,2025-04-26,Thank you so much for the quick turnaround. This sounds like a fantastic opportunity.,0.886
+C0560,2025-05-04,"Bahut accha laga team se milke, excited hoon aage badhne ke liye!",0.4003
+C0560,2025-05-04,"Great, that works for me. Looking forward to the next round!",0.6588
+C0560,2025-05-07,Please share the job description and the compensation structure.,0.5423
+C0560,2025-05-12,Can we reschedule the call to Thursday afternoon?,0.0
+C0560,2025-05-20,Received your email. I will go through it and revert.,0.0
+C0561,2025-05-24,"Bilkul maza nahi aaya process mein, bahut time lag raha hai.",-0.34
+C0561,2025-05-24,Another company has made a better offer. I'm worried about the notice buyout.,0.1779
+C0561,2025-05-28,"Bilkul maza nahi aaya process mein, bahut time lag raha hai.",-0.34
+C0561,2025-05-29,"Bahut accha laga team se milke, excited hoon aage badhne ke liye!",0.4003
+C0561,2025-05-29,"I'm not sure this is the right fit anymore, the compensation is disappointing.",-0.3944
+C0561,2025-05-30,"Sounds great, I'm keen to join and will share the documents today.",0.875
+C0563,2025-05-20,"Bahut accha laga team se milke, excited hoon aage badhne ke liye!",0.4003
+C0563,2025-05-25,"Awesome, thank you! I'm confident this is a good fit and I'm very interested.",0.9551
+C0563,2025-05-28,Noted. I'll get back to you by end of week.,0.0
+C0563,2025-05-29,Thank you so much for the quick turnaround. This sounds like a fantastic opportunity.,0.886
+C0563,2025-05-31,"Sounds great, I'm keen to join and will share the documents today.",0.875
+C0565,2025-04-13,"Bahut accha laga team se milke, excited hoon aage badhne ke liye!",0.4003
+C0565,2025-04-18,"I'm not sure this is the right fit anymore, the compensation is disappointing.",-0.3944
+C0566,2025-04-27,Thanks for the update! I'm really excited about the Finance Analyst role and happy to move ahead.,0.862
+C0566,2025-05-03,"Honestly I'm frustrated with the delays, and I have other offers waiting.",-0.1027
+C0567,2025-02-20,Could you confirm the location and the reporting manager?,0.0
+C0567,2025-02-22,"Happy with the discussion so far, the team seems wonderful. Please share the next steps.",0.8979
+C0567,2025-02-23,Noted. I'll get back to you by end of week.,0.0
+C0567,2025-02-23,"Happy with the discussion so far, the team seems wonderful. Please share the next steps.",0.8979
+C0568,2025-03-25,Noted. I'll get back to you by end of week.,0.0
+C0568,2025-03-25,I am available on Monday or Tuesday after 4 pm.,0.0
+C0568,2025-03-25,"Mujhe thoda time chahiye, main weekend tak batata hoon.",0.0
+C0568,2025-03-25,"Mujhe thoda time chahiye, main weekend tak batata hoon.",0.0
+C0568,2025-03-25,"Ok, sending my updated resume as requested.",0.0
+C0568,2025-03-25,"Sorry, I'm no longer comfortable with this timeline. I need to rethink.",-0.6372
+C0570,2025-05-27,The process has been too slow and I'm losing interest.,0.1027
+C0570,2025-05-27,"Bilkul maza nahi aaya process mein, bahut time lag raha hai.",-0.34
+C0570,2025-05-27,"Happy with the discussion so far, the team seems wonderful. Please share the next steps.",0.8979
+C0571,2025-05-16,Noted. I'll get back to you by end of week.,0.0
+C0571,2025-05-20,I am available on Monday or Tuesday after 4 pm.,0.0
+C0573,2025-04-19,"Great, that works for me. Looking forward to the next round!",0.6588
+C0573,2025-04-21,Thanks for the update! I'm really excited about the Finance Analyst role and happy to move ahead.,0.862
+C0573,2025-04-22,"Awesome, thank you! I'm confident this is a good fit and I'm very interested.",0.9551
+C0573,2025-04-25,Can we reschedule the call to Thursday afternoon?,0.0
+C0574,2025-05-02,The process has been too slow and I'm losing interest.,0.1027
+C0574,2025-05-12,"Love the details, thanks for being so transparent. Really appreciate it!",0.8921
+C0574,2025-05-29,"Mujhe thoda time chahiye, main weekend tak batata hoon.",0.0
+C0575,2025-05-09,"Happy with the discussion so far, the team seems wonderful. Please share the next steps.",0.8979
+C0575,2025-05-10,"Awesome, thank you! I'm confident this is a good fit and I'm very interested.",0.9551
+C0575,2025-05-10,Please share the job description and the compensation structure.,0.5423
+C0575,2025-05-11,"Bahut accha laga team se milke, excited hoon aage badhne ke liye!",0.4003
+C0577,2025-06-02,Thanks for the update! I'm really excited about the Finance Analyst role and happy to move ahead.,0.862
+C0577,2025-06-02,Noted. I'll get back to you by end of week.,0.0
+C0577,2025-06-02,"Love the details, thanks for being so transparent. Really appreciate it!",0.8921
+C0577,2025-06-02,Please share the job description and the compensation structure.,0.5423
+C0577,2025-06-02,Thank you so much for the quick turnaround. This sounds like a fantastic opportunity.,0.886
+C0577,2025-06-02,Thank you so much for the quick turnaround. This sounds like a fantastic opportunity.,0.886
+C0579,2025-04-12,Thanks for the update! I'm really excited about the Finance Analyst role and happy to move ahead.,0.862
+C0579,2025-04-12,"Honestly I'm frustrated with the delays, and I have other offers waiting.",-0.1027
+C0579,2025-04-12,"Awesome, thank you! I'm confident this is a good fit and I'm very interested.",0.9551
+C0579,2025-04-12,Another company has made a better offer. I'm worried about the notice buyout.,0.1779
+C0579,2025-04-12,Received your email. I will go through it and revert.,0.0
+C0579,2025-04-12,"Honestly I'm frustrated with the delays, and I have other offers waiting.",-0.1027
+C0581,2025-05-25,"Bahut accha laga team se milke, excited hoon aage badhne ke liye!",0.4003
+C0581,2025-05-27,"Awesome, thank you! I'm confident this is a good fit and I'm very interested.",0.9551
+C0581,2025-05-31,"Mujhe thoda time chahiye, main weekend tak batata hoon.",0.0
+C0582,2025-04-26,"Happy with the discussion so far, the team seems wonderful. Please share the next steps.",0.8979
+C0582,2025-04-29,"Awesome, thank you! I'm confident this is a good fit and I'm very interested.",0.9551
+C0582,2025-04-30,"Bahut accha laga team se milke, excited hoon aage badhne ke liye!",0.4003
+C0582,2025-05-07,Please share the job description and the compensation structure.,0.5423
+C0582,2025-05-11,"Love the details, thanks for being so transparent. Really appreciate it!",0.8921
+C0582,2025-05-26,The process has been too slow and I'm losing interest.,0.1027
+C0583,2025-05-20,"Love the details, thanks for being so transparent. Really appreciate it!",0.8921
+C0583,2025-05-21,"Sounds great, I'm keen to join and will share the documents today.",0.875
+C0583,2025-05-25,Thank you so much for the quick turnaround. This sounds like a fantastic opportunity.,0.886
+C0583,2025-05-26,"Happy with the discussion so far, the team seems wonderful. Please share the next steps.",0.8979
+C0583,2025-05-26,Thank you so much for the quick turnaround. This sounds like a fantastic opportunity.,0.886
+C0583,2025-05-27,Thank you so much for the quick turnaround. This sounds like a fantastic opportunity.,0.886
+C0584,2025-03-07,Could you confirm the location and the reporting manager?,0.0
+C0584,2025-03-07,"Great, that works for me. Looking forward to the next round!",0.6588
+C0584,2025-03-07,"Great, that works for me. Looking forward to the next round!",0.6588
+C0584,2025-03-07,"Great, that works for me. Looking forward to the next round!",0.6588
+C0584,2025-03-07,"Mujhe thoda time chahiye, main weekend tak batata hoon.",0.0
+C0584,2025-03-07,"Awesome, thank you! I'm confident this is a good fit and I'm very interested.",0.9551
+C0588,2025-05-18,Received your email. I will go through it and revert.,0.0
+C0588,2025-05-18,"Awesome, thank you! I'm confident this is a good fit and I'm very interested.",0.9551
+C0588,2025-05-18,"Sorry, I'm no longer comfortable with this timeline. I need to rethink.",-0.6372
+C0589,2025-04-02,The process has been too slow and I'm losing interest.,0.1027
+C0589,2025-04-04,"Sounds great, I'm keen to join and will share the documents today.",0.875
+C0589,2025-04-04,Another company has made a better offer. I'm worried about the notice buyout.,0.1779
+C0589,2025-04-05,Thank you so much for the quick turnaround. This sounds like a fantastic opportunity.,0.886
+C0589,2025-04-05,Received your email. I will go through it and revert.,0.0
+C0590,2025-05-16,"Awesome, thank you! I'm confident this is a good fit and I'm very interested.",0.9551
+C0590,2025-05-18,Thank you so much for the quick turnaround. This sounds like a fantastic opportunity.,0.886
+C0590,2025-05-18,"Bahut accha laga team se milke, excited hoon aage badhne ke liye!",0.4003
+C0590,2025-05-18,Another company has made a better offer. I'm worried about the notice buyout.,0.1779
+C0590,2025-05-19,"Mujhe lagta hai ye offer kaafi kam hai, abhi doosre options bhi dekh raha hoon.",0.0
+C0593,2025-02-11,Thank you so much for the quick turnaround. This sounds like a fantastic opportunity.,0.886
+C0593,2025-02-13,"Sounds great, I'm keen to join and will share the documents today.",0.875
+C0593,2025-02-14,"Sorry, I'm no longer comfortable with this timeline. I need to rethink.",-0.6372
+C0593,2025-02-14,"Not happy with the hike offered, I was expecting much more. This is upsetting.",-0.7478
+C0593,2025-02-16,The process has been too slow and I'm losing interest.,0.1027
+C0593,2025-02-18,"Honestly I'm frustrated with the delays, and I have other offers waiting.",-0.1027
+C0594,2025-05-05,"Bahut accha laga team se milke, excited hoon aage badhne ke liye!",0.4003
+C0594,2025-05-05,Can we reschedule the call to Thursday afternoon?,0.0
+C0594,2025-05-05,Received your email. I will go through it and revert.,0.0
+C0594,2025-05-05,"Not happy with the hike offered, I was expecting much more. This is upsetting.",-0.7478
+C0594,2025-05-05,"I'm not sure this is the right fit anymore, the compensation is disappointing.",-0.3944
+C0595,2025-05-09,Please share the job description and the compensation structure.,0.5423
+C0595,2025-05-09,Please share the job description and the compensation structure.,0.5423
+C0595,2025-05-09,"Bahut accha laga team se milke, excited hoon aage badhne ke liye!",0.4003
+C0595,2025-05-09,"Ok, sending my updated resume as requested.",0.0
+C0595,2025-05-11,"Mujhe thoda time chahiye, main weekend tak batata hoon.",0.0
+C0596,2025-05-19,"Love the details, thanks for being so transparent. Really appreciate it!",0.8921
+C0596,2025-05-20,Could you confirm the location and the reporting manager?,0.0
+C0596,2025-05-20,"Mujhe thoda time chahiye, main weekend tak batata hoon.",0.0
+C0598,2025-04-24,Could you confirm the location and the reporting manager?,0.0
+C0598,2025-04-28,Could you confirm the location and the reporting manager?,0.0
+C0598,2025-05-01,"Love the details, thanks for being so transparent. Really appreciate it!",0.8921
+C0598,2025-05-01,I am available on Monday or Tuesday after 4 pm.,0.0
+C0599,2025-04-27,"Mujhe lagta hai ye offer kaafi kam hai, abhi doosre options bhi dekh raha hoon.",0.0
+C0599,2025-04-27,"Ok, sending my updated resume as requested.",0.0
+C0599,2025-04-27,"Mujhe lagta hai ye offer kaafi kam hai, abhi doosre options bhi dekh raha hoon.",0.0
+C0599,2025-04-27,Received your email. I will go through it and revert.,0.0
+C0599,2025-04-27,I am available on Monday or Tuesday after 4 pm.,0.0

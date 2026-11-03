@@ -1,0 +1,101 @@
+{
+  "n_offers": 1800,
+  "dropout_rate": 0.35,
+  "features": [
+    "hike_pct",
+    "notice_days",
+    "competing_offer",
+    "relocation",
+    "source_quality",
+    "ctc_current",
+    "days_in_process",
+    "days_since_last_reply",
+    "sentiment_latest",
+    "sentiment_change"
+  ],
+  "variants": [
+    {
+      "name": "Structured only",
+      "features": [
+        "hike_pct",
+        "notice_days",
+        "competing_offer",
+        "relocation",
+        "source_quality",
+        "ctc_current",
+        "days_in_process"
+      ],
+      "auc_mean": 0.6466049382716049,
+      "auc_std": 0.01772088696548184,
+      "logloss": 0.6177931547164917,
+      "brier": 0.2140345185995102
+    },
+    {
+      "name": "+ Reply silence",
+      "features": [
+        "hike_pct",
+        "notice_days",
+        "competing_offer",
+        "relocation",
+        "source_quality",
+        "ctc_current",
+        "days_in_process",
+        "days_since_last_reply"
+      ],
+      "auc_mean": 0.6883224799891468,
+      "auc_std": 0.009493211182519603,
+      "logloss": 0.595415997505188,
+      "brier": 0.2044888526201248
+    },
+    {
+      "name": "All signals",
+      "features": [
+        "hike_pct",
+        "notice_days",
+        "competing_offer",
+        "relocation",
+        "source_quality",
+        "ctc_current",
+        "days_in_process",
+        "days_since_last_reply",
+        "sentiment_latest",
+        "sentiment_change"
+      ],
+      "auc_mean": 0.7261497761497762,
+      "auc_std": 0.02410812247110921,
+      "logloss": 0.5742701768875123,
+      "brier": 0.19502913653850557
+    },
+    {
+      "name": "Logistic regression (all signals)",
+      "features": [
+        "hike_pct",
+        "notice_days",
+        "competing_offer",
+        "relocation",
+        "source_quality",
+        "ctc_current",
+        "days_in_process",
+        "days_since_last_reply",
+        "sentiment_latest",
+        "sentiment_change"
+      ],
+      "auc_mean": 0.7394790394790395,
+      "auc_std": 0.009501069782340107,
+      "logloss": 0.564389788558666,
+      "brier": 0.19072101313904258
+    }
+  ],
+  "shap_importance": {
+    "hike_pct": 0.3372379541397095,
+    "notice_days": 0.20498906075954437,
+    "competing_offer": 0.32395994663238525,
+    "relocation": 0.009331479668617249,
+    "source_quality": 0.022209063172340393,
+    "ctc_current": 0.06805600970983505,
+    "days_in_process": 0.2117004245519638,
+    "days_since_last_reply": 0.2952362596988678,
+    "sentiment_latest": 0.29942944645881653,
+    "sentiment_change": 0.11996401101350784
+  }
+}
